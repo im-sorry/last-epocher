@@ -1,0 +1,3626 @@
+[
+  {
+    "characterName": "dixuedizhenxiong",
+    "level": 100,
+    "slot": 2,
+    "currentExp": 699337,
+    "hardcore": false,
+    "died": false,
+    "deaths": 0,
+    "masochist": false,
+    "closedSkillsTooltip": true,
+    "closedPassivesTooltip": true,
+    "closedMonolithTooltip": false,
+    "closedIdolsTooltip": true,
+    "closedMinSkillLevelTutorial": true,
+    "characterClass": 0,
+    "savedItems": [
+      {
+        "itemData": "",
+        "data": [
+          1, 0, 6, 9, 255, 255, 255, 0, 239, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 45, 255, 96, 80, 255, 96, 80, 255, 96, 114, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 2,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 1, 3, 9, 255, 255, 255, 0, 11, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 27, 255, 98, 117, 255, 98, 117, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 3,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 13, 6, 9, 255, 255, 255, 0, 162, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 27, 255, 96, 27, 255, 96, 27, 255, 96, 27, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 4,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 0, 4, 255, 255, 255, 12, 4, 97, 245, 255, 97, 246, 255, 96, 36,
+          255, 96, 36, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 6,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 4, 9, 255, 255, 255, 0, 103, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 36, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 7,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 3, 9, 9, 255, 255, 255, 0, 115, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 36, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 8,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 2, 9, 255, 255, 255, 0, 238, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 98, 90, 255, 98, 90, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 10,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 2, 9, 255, 255, 255, 0, 238, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 98, 90, 255, 98, 90, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 9,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 20, 5, 9, 255, 255, 255, 0, 133, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 142, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 11,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 22, 6, 9, 255, 255, 255, 0, 70, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 46, 255, 96, 36, 255, 96, 30, 255, 98, 117, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 12,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 10, 2, 7, 81, 119, 98, 0, 37, 54, 25, 174, 96, 168, 9, 232, 224, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 1, 7, 154, 68, 187, 0, 131, 217, 132, 59, 157, 249, 10, 162,
+          100, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 0, 2, 7, 182, 50, 46, 1, 0, 14, 169, 244, 212, 59, 123, 16, 166, 1
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 0, 8, 96, 61, 86, 0, 102, 180, 29, 175, 157, 235, 101, 91, 167,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 2,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 22, 6, 9, 255, 255, 255, 0, 70, 255, 255, 255, 255, 255, 255, 255,
+          255, 5, 96, 46, 255, 96, 36, 255, 96, 30, 255, 98, 117, 255, 96, 50,
+          255
+        ],
+        "inventoryPosition": {
+          "x": 2,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 20, 4, 7, 101, 63, 188, 0, 59, 240, 157, 98, 188, 206, 2, 110, 181,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 2,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 1, 8, 98, 14, 8, 0, 63, 181, 79, 181, 30, 203, 143, 25, 103, 0
+        ],
+        "inventoryPosition": {
+          "x": 3,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 3, 1, 7, 84, 67, 67, 0, 19, 125, 115, 53, 124, 199, 121, 233, 174,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 1, 5, 7, 109, 136, 62, 0, 117, 216, 55, 207, 89, 10, 46, 29, 112, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 30, 4, 2, 172, 183, 179, 15, 2, 2, 0, 51, 1, 182, 74, 0],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 246, 17, 185, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 11,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 33, 4, 2, 27, 101, 194, 16, 2, 1, 196, 140, 1, 185, 186, 0],
+        "inventoryPosition": {
+          "x": 11,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 27, 0, 2, 182, 216, 75, 17, 2, 0, 115, 212, 0, 140, 193, 0],
+        "inventoryPosition": {
+          "x": 11,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 32, 4, 2, 92, 253, 20, 18, 2, 2, 2, 122, 1, 210, 106, 0],
+        "inventoryPosition": {
+          "x": 10,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 25, 0, 2, 85, 48, 176, 18, 2, 1, 174, 99, 0, 135, 29, 0],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 28, 0, 2, 125, 63, 128, 21, 2, 0, 134, 220, 0, 113, 220, 0],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 5
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 16, 2, 7, 126, 212, 145, 0, 47, 86, 188, 233, 162, 199, 138, 94,
+          237, 0
+        ],
+        "inventoryPosition": {
+          "x": 6,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 17, 1, 7, 26, 85, 219, 0, 148, 22, 219, 236, 79, 117, 84, 145, 102,
+          1
+        ],
+        "inventoryPosition": {
+          "x": 8,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 23, 0, 7, 26, 244, 190, 0, 141, 19, 117, 104, 30, 61, 85, 44, 174,
+          2
+        ],
+        "inventoryPosition": {
+          "x": 6,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 6, 3, 7, 59, 37, 128, 0, 236, 92, 235, 157, 152, 130, 4, 147, 17, 1
+        ],
+        "inventoryPosition": {
+          "x": 3,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 18, 5, 8, 169, 231, 251, 0, 89, 172, 196, 185, 94, 13, 167, 29, 37,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 8,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 19, 1, 7, 190, 2, 64, 0, 247, 95, 73, 167, 46, 134, 182, 65, 116, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 12, 3, 7, 186, 194, 191, 0, 40, 3, 67, 182, 3, 87, 164, 54, 155, 0
+        ],
+        "inventoryPosition": {
+          "x": 10,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 15, 4, 7, 250, 178, 113, 0, 205, 180, 97, 93, 119, 30, 34, 247,
+          133, 1
+        ],
+        "inventoryPosition": {
+          "x": 12,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 9, 1, 7, 93, 125, 58, 0, 143, 136, 30, 34, 232, 182, 201, 197, 71,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 5,
+          "y": 5
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 10, 2, 7, 122, 224, 191, 0, 39, 70, 108, 220, 128, 198, 226, 209,
+          142, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 5
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 104, 5],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 7
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 104, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 7
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 1, 4, 13, 64, 99, 13, 4, 97, 104, 255, 48, 6, 255, 96, 46, 255,
+          96, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 7
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 6, 4, 245, 179, 144, 20, 4, 98, 150, 255, 97, 173, 255, 96, 27,
+          255, 96, 33, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 8,
+          "y": 6
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 26, 0, 2, 35, 122, 17, 17, 4, 0, 36, 255, 0, 36, 255, 0, 36, 255,
+          0, 36, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 26, 0, 2, 240, 246, 1, 22, 4, 0, 36, 255, 0, 36, 255, 0, 36, 255,
+          0, 36, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 3,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 30, 0, 3, 52, 190, 79, 21, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 30, 0, 3, 85, 240, 102, 18, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 113, 150, 18, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 176, 125, 64, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 246, 17, 185, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 16, 0, 0, 16, 111, 173, 23, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 9, 3, 0, 235, 39, 235, 17, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 5, 0, 0, 0, 0, 0, 0, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 3, 7, 0, 0, 0, 0, 0, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 14, 1, 0, 223, 92, 211, 20, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 7, 0, 2, 161, 214, 115, 15, 2, 0, 2, 129, 16, 91, 201, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 18, 0, 0, 141, 103, 117, 19, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 20, 5, 1, 133, 203, 59, 13, 1, 0, 22, 236, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      }
+    ],
+    "savedCharacterTree": {
+      "treeID": "",
+      "version": 9,
+      "nodeIDs": [
+        0, 2, 1, 5, 3, 114, 116, 41, 61, 12, 13, 19, 15, 89, 77, 118, 97, 81,
+        110, 111, 56, 25, 108, 67
+      ],
+      "nodePoints": [
+        8, 1, 1, 5, 5, 5, 10, 8, 7, 8, 2, 4, 1, 3, 5, 5, 7, 4, 1, 8, 5, 2, 5, 3
+      ],
+      "unspentPoints": 0,
+      "nodesTaken": []
+    },
+    "savedSkillTrees": [
+      {
+        "treeID": "sw43",
+        "slotNumber": 1,
+        "xp": 5700000,
+        "version": 1,
+        "nodeIDs": [13, 21, 15, 17, 19, 16],
+        "nodePoints": [8, 4, 3, 2, 1, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "fl13",
+        "slotNumber": 2,
+        "xp": 5700000,
+        "version": 2,
+        "nodeIDs": [20, 15, 11, 7, 8, 14, 16, 17],
+        "nodePoints": [3, 3, 1, 3, 1, 4, 4, 1],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "ssc50",
+        "slotNumber": 4,
+        "xp": 5700000,
+        "version": 0,
+        "nodeIDs": [1, 21, 22, 23, 24, 25, 8, 2, 4, 15],
+        "nodePoints": [3, 3, 1, 2, 1, 3, 1, 3, 1, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "wb8fo",
+        "slotNumber": 3,
+        "xp": 5700000,
+        "version": 3,
+        "nodeIDs": [7, 13, 15, 8, 21, 22, 32, 19, 31, 18, 2, 3, 29, 27],
+        "nodePoints": [5, 5, 4, 2, 5, 2, 1, 3, 1, 5, 1, 3, 4, 5],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "eq5s",
+        "slotNumber": 0,
+        "xp": 5700000,
+        "version": 1,
+        "nodeIDs": [17, 14, 25, 2, 3, 22, 23, 15, 16, 4, 5],
+        "nodePoints": [5, 5, 4, 3, 5, 5, 1, 3, 1, 2, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      }
+    ],
+    "characterTreeNodeProgression": [],
+    "unlockedWaypointScenes": [
+      "Z20",
+      "Z30",
+      "Z40",
+      "A04",
+      "A10",
+      "A30",
+      "A45",
+      "A60TR",
+      "A60",
+      "A70",
+      "A90",
+      "B10",
+      "B20",
+      "B25",
+      "B7S10",
+      "B30",
+      "B33",
+      "B40",
+      "B40TR",
+      "B1S40",
+      "B50",
+      "B60",
+      "B80",
+      "EoT",
+      "C10",
+      "C20",
+      "C30",
+      "C40",
+      "C50",
+      "C60",
+      "C70",
+      "D05",
+      "D05TR",
+      "Dun1Q10",
+      "H40",
+      "H50",
+      "H70",
+      "H80",
+      "H100",
+      "H110",
+      "H120",
+      "D20",
+      "D30",
+      "D40",
+      "D60",
+      "D80",
+      "E10",
+      "E20",
+      "E20TR",
+      "E30",
+      "E40",
+      "E50",
+      "E60",
+      "E80",
+      "E90",
+      "F10",
+      "F40"
+    ],
+    "abilityBar": ["eq5s", "sw43", "fl13", "wb8fo", "ssc50"],
+    "moveButtonBehaviour": 0,
+    "werebearAbilityBar": [],
+    "sprigganFormAbilityBar": [],
+    "swarmbladeAbilityBar": [],
+    "portalUnlocked": true,
+    "reachedTown": true,
+    "soloChallenge": false,
+    "respecs": 0,
+    "uniquesPickedUp": 0,
+    "savedQuests": [
+      {
+        "questID": 18,
+        "questStepID": 93,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          64, 66, 67, 65, 70, 72, 73, 136, 74, 137, 138, 148
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 48,
+        "questStepID": 281,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [247, 248, 249, 250, 251, 252, 253],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 1,
+        "questStepID": 4,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [1, 2, 3, 48],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 49,
+        "questStepID": 284,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [254, 255, 256, 257],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 94,
+        "questStepID": 493,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [404, 405, 406, 407, 408],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 3,
+        "questStepID": 12,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [8, 9],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 11,
+        "questStepID": 44,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [33],
+        "failedObjectives": [34],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 5,
+        "questStepID": 14,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [22, 24, 25, 26, 62, 10],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 2,
+        "questStepID": 24,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [4, 5, 6, 7, 20],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 34,
+        "questStepID": 197,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [175, 177, 178, 179],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 6,
+        "questStepID": 47,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [11, 15, 431, 16, 17, 61],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 9,
+        "questStepID": 38,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [29, 30, 31],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 35,
+        "questStepID": 202,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [180, 181, 182, 190, 191, 183],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 96,
+        "questStepID": 506,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [413, 414, 415, 416, 417, 418, 419],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 99,
+        "questStepID": 520,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [427, 428, 429],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 29,
+        "questStepID": 160,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [144, 145, 146, 147],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 100,
+        "questStepID": 525,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [435, 434],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 10,
+        "questStepID": 40,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [28],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 13,
+        "questStepID": 60,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [41, 436, 437, 42, 438, 43, 44, 45, 49, 46],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 40,
+        "questStepID": 232,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [210],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 39,
+        "questStepID": 230,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [202, 203, 204, 205, 208, 209, 206, 207],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 41,
+        "questStepID": 234,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [211],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 14,
+        "questStepID": 101,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [139, 149, 47, 50, 88, 89, 90, 91, 96, 97, 98],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 28,
+        "questStepID": 155,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [142, 143],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 12,
+        "questStepID": 54,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [35, 36, 37, 38, 39, 40],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 116,
+        "questStepID": 596,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [514],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 20,
+        "questStepID": 106,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [92, 93, 94, 95, 105, 106],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 24,
+        "questStepID": 128,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [108, 109, 110, 111, 112, 113, 114, 115, 116],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 114,
+        "questStepID": 584,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          495, 496, 497, 498, 499, 500, 501, 502, 503, 554, 504
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 119,
+        "questStepID": 615,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [556, 558, 557, 526, 527, 528, 529],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 115,
+        "questStepID": 593,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          505, 506, 507, 567, 508, 513, 509, 510, 511, 512
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 117,
+        "questStepID": 601,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [573, 515, 516, 517, 518],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 123,
+        "questStepID": 640,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          545, 546, 547, 552, 548, 549, 550, 553, 551, 568, 569, 570
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 120,
+        "questStepID": 621,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [531, 532, 533, 534, 535],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 122,
+        "questStepID": 632,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [540, 541, 542, 543, 544],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 124,
+        "questStepID": 656,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          559, 560, 574, 575, 561, 562, 563, 564, 565, 566
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 27,
+        "questStepID": 143,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [126, 127, 128],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 30,
+        "questStepID": 168,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [150, 151, 152, 153, 154],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 36,
+        "questStepID": 209,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [184, 185, 186, 187, 188, 192, 189],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 25,
+        "questStepID": 136,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [117, 118, 119, 121, 120, 122, 123],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 31,
+        "questStepID": 176,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          155, 156, 162, 157, 158, 159, 163, 160, 164, 161
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 33,
+        "questStepID": 187,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [169, 170, 174, 171],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 32,
+        "questStepID": 189,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [165, 166, 167, 173, 168, 172],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 42,
+        "questStepID": 240,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [245, 212, 213, 214, 215, 239, 216],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 44,
+        "questStepID": 248,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 47,
+        "questStepID": 267,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      }
+    ],
+    "savedMonolithQuests": [],
+    "maxWave": 0,
+    "competitiveCharacterVersion": 16,
+    "oneTimeEvents": [
+      "ChZNotification",
+      "ChANotification",
+      "A30VAActivate",
+      "A40PortalTutorialDisable",
+      "A40PortalTutorialFirst",
+      "A30ErzaUniqueDrop",
+      "A60-70Door",
+      "A30SavingLastRefugeIdols",
+      "A30RuneDoorOneTime",
+      "ChBNotification",
+      "B33SoulVesselSwap",
+      "B80RightObjective",
+      "B80LeftObjective",
+      "Reached EoT",
+      "Reached EoT Music",
+      "activate time travel EoT to C10",
+      "ChCNotification",
+      "ChDNotification",
+      "H40ZerrickFreed",
+      "H50Cinematic",
+      "H60BodyguardComplete",
+      "H120toH130open",
+      "D30RuneDoorOneTime",
+      "ChENotification",
+      "ChFNotification"
+    ],
+    "focusedQuest": -1,
+    "sceneProgresses": [
+      {
+        "scene": "Z10",
+        "progress": 962057535487,
+        "version": 1
+      },
+      {
+        "scene": "Z20",
+        "progress": 6015,
+        "version": 1
+      },
+      {
+        "scene": "Z30",
+        "progress": 4380445734027263,
+        "version": 1
+      },
+      {
+        "scene": "Z40",
+        "progress": 10952402477961232000,
+        "version": 1
+      },
+      {
+        "scene": "A04",
+        "progress": 16428576156942336000,
+        "version": 1
+      },
+      {
+        "scene": "A10",
+        "progress": 6476209249505772000,
+        "version": 1
+      },
+      {
+        "scene": "A30",
+        "progress": 4030202878,
+        "version": 1
+      },
+      {
+        "scene": "A3S10",
+        "progress": 241,
+        "version": 1
+      },
+      {
+        "scene": "A40",
+        "progress": 35051588070918144,
+        "version": 1
+      },
+      {
+        "scene": "A45",
+        "progress": 18176,
+        "version": 1
+      },
+      {
+        "scene": "A60TR",
+        "progress": 67553994813210620,
+        "version": 2
+      },
+      {
+        "scene": "A60",
+        "progress": 288221578447060740,
+        "version": 1
+      },
+      {
+        "scene": "A70",
+        "progress": 8986276049452095,
+        "version": 1
+      },
+      {
+        "scene": "A80",
+        "progress": 14,
+        "version": 1
+      },
+      {
+        "scene": "A90",
+        "progress": 17591112321023,
+        "version": 1
+      },
+      {
+        "scene": "B10",
+        "progress": 12533324488175616,
+        "version": 1
+      },
+      {
+        "scene": "B20",
+        "progress": 6548674303721487,
+        "version": 1
+      },
+      {
+        "scene": "B7S10",
+        "progress": 31866509819807,
+        "version": 1
+      },
+      {
+        "scene": "B33",
+        "progress": 8778913157121,
+        "version": 1
+      },
+      {
+        "scene": "B25",
+        "progress": 1920,
+        "version": 1
+      },
+      {
+        "scene": "B36",
+        "progress": 3848324120576,
+        "version": 2
+      },
+      {
+        "scene": "B40TR",
+        "progress": 144097287188920420,
+        "version": 2
+      },
+      {
+        "scene": "B1S30",
+        "progress": 40531558865829860,
+        "version": 1
+      },
+      {
+        "scene": "B1S40",
+        "progress": 34041154739634416,
+        "version": 1
+      },
+      {
+        "scene": "B40",
+        "progress": 270075274379411460,
+        "version": 2
+      },
+      {
+        "scene": "B50",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "B90",
+        "progress": 6425409484813,
+        "version": 1
+      },
+      {
+        "scene": "B100",
+        "progress": 17179876352,
+        "version": 1
+      },
+      {
+        "scene": "C10",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "C20",
+        "progress": 14498176429981742,
+        "version": 1
+      },
+      {
+        "scene": "C30",
+        "progress": 35584725183625216,
+        "version": 1
+      },
+      {
+        "scene": "B30",
+        "progress": 1064335845113855,
+        "version": 1
+      },
+      {
+        "scene": "B4S10",
+        "progress": 4194015,
+        "version": 1
+      },
+      {
+        "scene": "C1S10",
+        "progress": 17100154584432640,
+        "version": 1
+      },
+      {
+        "scene": "C35",
+        "progress": 540412417414891500,
+        "version": 1
+      },
+      {
+        "scene": "C40",
+        "progress": 540430864352804860,
+        "version": 1
+      },
+      {
+        "scene": "C50",
+        "progress": 263882664735743,
+        "version": 1
+      },
+      {
+        "scene": "C60",
+        "progress": 2885408137091,
+        "version": 1
+      },
+      {
+        "scene": "C65",
+        "progress": 147407,
+        "version": 1
+      },
+      {
+        "scene": "C70",
+        "progress": 16160885809082794000,
+        "version": 1
+      },
+      {
+        "scene": "C80",
+        "progress": 2248501262557183,
+        "version": 1
+      },
+      {
+        "scene": "Dun1Q30",
+        "progress": 2199023484941,
+        "version": 1
+      },
+      {
+        "scene": "H60",
+        "progress": 216172524348637200,
+        "version": 1
+      },
+      {
+        "scene": "H50",
+        "progress": 8589672447,
+        "version": 1
+      },
+      {
+        "scene": "H80",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "H90",
+        "progress": 439735937957824,
+        "version": 1
+      },
+      {
+        "scene": "H100",
+        "progress": 10664172074949198000,
+        "version": 1
+      },
+      {
+        "scene": "H105",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "H110",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "H120",
+        "progress": 13268906324070400,
+        "version": 1
+      },
+      {
+        "scene": "H130",
+        "progress": 6290431,
+        "version": 1
+      },
+      {
+        "scene": "H140",
+        "progress": 246290805948416,
+        "version": 1
+      },
+      {
+        "scene": "D10",
+        "progress": 15782304138949640,
+        "version": 1
+      },
+      {
+        "scene": "D20",
+        "progress": 13370059506449472,
+        "version": 1
+      },
+      {
+        "scene": "D35",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "D30",
+        "progress": 3386495813386743,
+        "version": 1
+      },
+      {
+        "scene": "D40",
+        "progress": 7044333568,
+        "version": 1
+      },
+      {
+        "scene": "D05",
+        "progress": 23089743685631,
+        "version": 1
+      },
+      {
+        "scene": "D50",
+        "progress": 9188328264207237000,
+        "version": 1
+      },
+      {
+        "scene": "D60",
+        "progress": 26387620888191,
+        "version": 1
+      },
+      {
+        "scene": "D80",
+        "progress": 8406931,
+        "version": 1
+      },
+      {
+        "scene": "E10",
+        "progress": 68658525110527,
+        "version": 1
+      },
+      {
+        "scene": "E20TR",
+        "progress": 2251524934008831,
+        "version": 1
+      },
+      {
+        "scene": "E20",
+        "progress": 517786673523195900,
+        "version": 1
+      },
+      {
+        "scene": "E30",
+        "progress": 1152921504404472000,
+        "version": 1
+      },
+      {
+        "scene": "E40",
+        "progress": 4610594684414189600,
+        "version": 1
+      },
+      {
+        "scene": "E50",
+        "progress": 29239276212249590,
+        "version": 1
+      },
+      {
+        "scene": "E1S10",
+        "progress": 2251784420522458000,
+        "version": 1
+      },
+      {
+        "scene": "E60",
+        "progress": 516095,
+        "version": 1
+      },
+      {
+        "scene": "E70",
+        "progress": 1116966501482622,
+        "version": 1
+      },
+      {
+        "scene": "E80",
+        "progress": 320193042328321900,
+        "version": 1
+      },
+      {
+        "scene": "E90",
+        "progress": 8998407203980283,
+        "version": 1
+      },
+      {
+        "scene": "E100",
+        "progress": 548682072064,
+        "version": 1
+      },
+      {
+        "scene": "F10",
+        "progress": 114342766804991,
+        "version": 1
+      },
+      {
+        "scene": "F20",
+        "progress": 4468419499916289,
+        "version": 1
+      },
+      {
+        "scene": "F30",
+        "progress": 257537,
+        "version": 1
+      },
+      {
+        "scene": "F40",
+        "progress": 4002282454646791,
+        "version": 1
+      },
+      {
+        "scene": "H40",
+        "progress": 25882477915013104,
+        "version": 1
+      }
+    ],
+    "monolithRuns": [],
+    "timelineCompletion": [],
+    "timelineDifficultyCompletion": [],
+    "timelineDifficultyUnlocks": [],
+    "currentMonolithRunTimelineID": 0,
+    "currentMonolithRunDifficultyIndex": 0,
+    "currentMonolithRunToSetBack": 0,
+    "currentMonolithRunToSetBackDifficultyIndex": 0,
+    "previousMonolithEchoTimelineID": 0,
+    "previousMonolithEchoDifficultyIndex": 0,
+    "monolithEchoesConquered": 0,
+    "monolithTimelinesConquered": 0,
+    "monolithOptions": [],
+    "activeMonolithMods": [],
+    "monolithDepth": 0,
+    "hasRerolledMonolithOptions": false,
+    "chosenMastery": 3,
+    "clickedUnlockMasteriesButton": false,
+    "currentArenaRunWaves": 0,
+    "previousArenaRunWaves": 0,
+    "activeArenaRun": {
+      "waves": 0,
+      "tier": 0,
+      "activeModIndices": []
+    },
+    "arenaTiersCompleted": [],
+    "blessingsDiscovered": [],
+    "activeDungeonRun": {
+      "dungeonID": 0,
+      "zoneIndex": 0,
+      "tier": 0,
+      "status": 0,
+      "soulEmbers": 0,
+      "lanternLuminosity": 0
+    },
+    "dungeonCompletion": [
+      {
+        "dungeonID": 0,
+        "tiersCompleted": [0, 1, 2]
+      }
+    ]
+  },
+  {
+    "characterName": "dixuedizhenxiong1",
+    "level": 97,
+    "slot": 2,
+    "currentExp": 6993,
+    "hardcore": false,
+    "died": false,
+    "deaths": 0,
+    "masochist": false,
+    "closedSkillsTooltip": true,
+    "closedPassivesTooltip": true,
+    "closedMonolithTooltip": false,
+    "closedIdolsTooltip": true,
+    "closedMinSkillLevelTutorial": true,
+    "characterClass": 0,
+    "savedItems": [
+      {
+        "itemData": "",
+        "data": [
+          1, 0, 6, 9, 255, 255, 255, 0, 239, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 45, 255, 96, 80, 255, 96, 80, 255, 96, 114, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 2,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 1, 3, 9, 255, 255, 255, 0, 11, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 27, 255, 98, 117, 255, 98, 117, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 3,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 13, 6, 9, 255, 255, 255, 0, 162, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 27, 255, 96, 27, 255, 96, 27, 255, 96, 27, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 4,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 0, 4, 255, 255, 255, 12, 4, 97, 245, 255, 97, 246, 255, 96, 36,
+          255, 96, 36, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 6,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 4, 9, 255, 255, 255, 0, 103, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 36, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 7,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 3, 9, 9, 255, 255, 255, 0, 115, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 36, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 8,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 2, 9, 255, 255, 255, 0, 238, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 98, 90, 255, 98, 90, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 10,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 2, 9, 255, 255, 255, 0, 238, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 98, 90, 255, 98, 90, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 9,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 20, 5, 9, 255, 255, 255, 0, 133, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 142, 255, 96, 36, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 11,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 22, 6, 9, 255, 255, 255, 0, 70, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 46, 255, 96, 36, 255, 96, 30, 255, 98, 117, 255
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 12,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 10, 2, 7, 81, 119, 98, 0, 37, 54, 25, 174, 96, 168, 9, 232, 224, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 1, 7, 154, 68, 187, 0, 131, 217, 132, 59, 157, 249, 10, 162,
+          100, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 0, 2, 7, 182, 50, 46, 1, 0, 14, 169, 244, 212, 59, 123, 16, 166, 1
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 0, 8, 96, 61, 86, 0, 102, 180, 29, 175, 157, 235, 101, 91, 167,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 2,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 22, 6, 9, 255, 255, 255, 0, 70, 255, 255, 255, 255, 255, 255, 255,
+          255, 5, 96, 46, 255, 96, 36, 255, 96, 30, 255, 98, 117, 255, 96, 50,
+          255
+        ],
+        "inventoryPosition": {
+          "x": 2,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 20, 4, 7, 101, 63, 188, 0, 59, 240, 157, 98, 188, 206, 2, 110, 181,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 2,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 1, 8, 98, 14, 8, 0, 63, 181, 79, 181, 30, 203, 143, 25, 103, 0
+        ],
+        "inventoryPosition": {
+          "x": 3,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 3, 1, 7, 84, 67, 67, 0, 19, 125, 115, 53, 124, 199, 121, 233, 174,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 1, 5, 7, 109, 136, 62, 0, 117, 216, 55, 207, 89, 10, 46, 29, 112, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 30, 4, 2, 172, 183, 179, 15, 2, 2, 0, 51, 1, 182, 74, 0],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 246, 17, 185, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 11,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 33, 4, 2, 27, 101, 194, 16, 2, 1, 196, 140, 1, 185, 186, 0],
+        "inventoryPosition": {
+          "x": 11,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 27, 0, 2, 182, 216, 75, 17, 2, 0, 115, 212, 0, 140, 193, 0],
+        "inventoryPosition": {
+          "x": 11,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 32, 4, 2, 92, 253, 20, 18, 2, 2, 2, 122, 1, 210, 106, 0],
+        "inventoryPosition": {
+          "x": 10,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 25, 0, 2, 85, 48, 176, 18, 2, 1, 174, 99, 0, 135, 29, 0],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 28, 0, 2, 125, 63, 128, 21, 2, 0, 134, 220, 0, 113, 220, 0],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 5
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 16, 2, 7, 126, 212, 145, 0, 47, 86, 188, 233, 162, 199, 138, 94,
+          237, 0
+        ],
+        "inventoryPosition": {
+          "x": 6,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 17, 1, 7, 26, 85, 219, 0, 148, 22, 219, 236, 79, 117, 84, 145, 102,
+          1
+        ],
+        "inventoryPosition": {
+          "x": 8,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 23, 0, 7, 26, 244, 190, 0, 141, 19, 117, 104, 30, 61, 85, 44, 174,
+          2
+        ],
+        "inventoryPosition": {
+          "x": 6,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 6, 3, 7, 59, 37, 128, 0, 236, 92, 235, 157, 152, 130, 4, 147, 17, 1
+        ],
+        "inventoryPosition": {
+          "x": 3,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 18, 5, 8, 169, 231, 251, 0, 89, 172, 196, 185, 94, 13, 167, 29, 37,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 8,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 19, 1, 7, 190, 2, 64, 0, 247, 95, 73, 167, 46, 134, 182, 65, 116, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 12, 3, 7, 186, 194, 191, 0, 40, 3, 67, 182, 3, 87, 164, 54, 155, 0
+        ],
+        "inventoryPosition": {
+          "x": 10,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 15, 4, 7, 250, 178, 113, 0, 205, 180, 97, 93, 119, 30, 34, 247,
+          133, 1
+        ],
+        "inventoryPosition": {
+          "x": 12,
+          "y": 4
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 9, 1, 7, 93, 125, 58, 0, 143, 136, 30, 34, 232, 182, 201, 197, 71,
+          0
+        ],
+        "inventoryPosition": {
+          "x": 5,
+          "y": 5
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 10, 2, 7, 122, 224, 191, 0, 39, 70, 108, 220, 128, 198, 226, 209,
+          142, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 5
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 104, 5],
+        "inventoryPosition": {
+          "x": 13,
+          "y": 7
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 104, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 7
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 1, 4, 13, 64, 99, 13, 4, 97, 104, 255, 96, 6, 255, 96, 46, 255,
+          96, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 7
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 6, 4, 245, 179, 144, 20, 4, 98, 150, 255, 97, 173, 255, 96, 27,
+          255, 96, 33, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 8,
+          "y": 6
+        },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 26, 0, 2, 35, 122, 17, 17, 4, 0, 36, 255, 0, 36, 255, 0, 36, 255,
+          0, 36, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 26, 0, 2, 240, 246, 1, 22, 4, 0, 36, 255, 0, 36, 255, 0, 36, 255,
+          0, 36, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 3,
+          "y": 2
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 30, 0, 3, 52, 190, 79, 21, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 30, 0, 3, 85, 240, 102, 18, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 4,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 113, 150, 18, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 1
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 176, 125, 64, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 246, 17, 185, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": {
+          "x": 1,
+          "y": 3
+        },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 16, 0, 0, 16, 111, 173, 23, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 9, 3, 0, 235, 39, 235, 17, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 5, 0, 0, 0, 0, 0, 0, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 3, 7, 0, 0, 0, 0, 0, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 14, 1, 0, 223, 92, 211, 20, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 7, 0, 2, 161, 214, 115, 15, 2, 0, 2, 129, 16, 91, 201, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 18, 0, 0, 141, 103, 117, 19, 0, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 20, 5, 1, 133, 203, 59, 13, 1, 0, 22, 236, 0],
+        "inventoryPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      }
+    ],
+    "savedCharacterTree": {
+      "treeID": "",
+      "version": 9,
+      "nodeIDs": [
+        0, 2, 1, 5, 3, 114, 116, 41, 61, 12, 13, 19, 15, 89, 77, 118, 97, 81,
+        110, 111, 56, 25, 108, 67
+      ],
+      "nodePoints": [
+        8, 1, 1, 5, 5, 5, 10, 8, 7, 8, 2, 4, 1, 3, 5, 5, 7, 4, 1, 8, 5, 2, 5, 3
+      ],
+      "unspentPoints": 0,
+      "nodesTaken": []
+    },
+    "savedSkillTrees": [
+      {
+        "treeID": "sw43",
+        "slotNumber": 1,
+        "xp": 5700000,
+        "version": 1,
+        "nodeIDs": [13, 21, 15, 17, 19, 16],
+        "nodePoints": [8, 4, 3, 2, 1, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "fl13",
+        "slotNumber": 2,
+        "xp": 5700000,
+        "version": 2,
+        "nodeIDs": [20, 15, 11, 7, 8, 14, 16, 17],
+        "nodePoints": [3, 3, 1, 3, 1, 4, 4, 1],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "ssc50",
+        "slotNumber": 4,
+        "xp": 5700000,
+        "version": 0,
+        "nodeIDs": [1, 21, 22, 23, 24, 25, 8, 2, 4, 15],
+        "nodePoints": [3, 3, 1, 2, 1, 3, 1, 3, 1, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "wb8fo",
+        "slotNumber": 3,
+        "xp": 5700000,
+        "version": 3,
+        "nodeIDs": [7, 13, 15, 8, 21, 22, 32, 19, 31, 18, 2, 3, 29, 27],
+        "nodePoints": [5, 5, 4, 2, 5, 2, 1, 3, 1, 5, 1, 3, 4, 5],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      },
+      {
+        "treeID": "eq5s",
+        "slotNumber": 0,
+        "xp": 5700000,
+        "version": 1,
+        "nodeIDs": [17, 14, 25, 2, 3, 22, 23, 15, 16, 4, 5],
+        "nodePoints": [5, 5, 4, 3, 5, 5, 1, 3, 1, 2, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0
+      }
+    ],
+    "characterTreeNodeProgression": [],
+    "unlockedWaypointScenes": [
+      "Z20",
+      "Z30",
+      "Z40",
+      "A04",
+      "A10",
+      "A30",
+      "A45",
+      "A60TR",
+      "A60",
+      "A70",
+      "A90",
+      "B10",
+      "B20",
+      "B25",
+      "B7S10",
+      "B30",
+      "B33",
+      "B40",
+      "B40TR",
+      "B1S40",
+      "B50",
+      "B60",
+      "B80",
+      "EoT",
+      "C10",
+      "C20",
+      "C30",
+      "C40",
+      "C50",
+      "C60",
+      "C70",
+      "D05",
+      "D05TR",
+      "Dun1Q10",
+      "H40",
+      "H50",
+      "H70",
+      "H80",
+      "H100",
+      "H110",
+      "H120",
+      "D20",
+      "D30",
+      "D40",
+      "D60",
+      "D80",
+      "E10",
+      "E20",
+      "E20TR",
+      "E30",
+      "E40",
+      "E50",
+      "E60",
+      "E80",
+      "E90",
+      "F10",
+      "F40"
+    ],
+    "abilityBar": ["eq5s", "sw43", "fl13", "wb8fo", "ssc50"],
+    "moveButtonBehaviour": 0,
+    "werebearAbilityBar": [],
+    "sprigganFormAbilityBar": [],
+    "swarmbladeAbilityBar": [],
+    "portalUnlocked": true,
+    "reachedTown": true,
+    "soloChallenge": false,
+    "respecs": 0,
+    "uniquesPickedUp": 0,
+    "savedQuests": [
+      {
+        "questID": 18,
+        "questStepID": 93,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          64, 66, 67, 65, 70, 72, 73, 136, 74, 137, 138, 148
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 48,
+        "questStepID": 281,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [247, 248, 249, 250, 251, 252, 253],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 1,
+        "questStepID": 4,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [1, 2, 3, 48],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 49,
+        "questStepID": 284,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [254, 255, 256, 257],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 94,
+        "questStepID": 493,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [404, 405, 406, 407, 408],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 3,
+        "questStepID": 12,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [8, 9],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 11,
+        "questStepID": 44,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [33],
+        "failedObjectives": [34],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 5,
+        "questStepID": 14,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [22, 24, 25, 26, 62, 10],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 2,
+        "questStepID": 24,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [4, 5, 6, 7, 20],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 34,
+        "questStepID": 197,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [175, 177, 178, 179],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 6,
+        "questStepID": 47,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [11, 15, 431, 16, 17, 61],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 9,
+        "questStepID": 38,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [29, 30, 31],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 35,
+        "questStepID": 202,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [180, 181, 182, 190, 191, 183],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 96,
+        "questStepID": 506,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [413, 414, 415, 416, 417, 418, 419],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 99,
+        "questStepID": 520,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [427, 428, 429],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 29,
+        "questStepID": 160,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [144, 145, 146, 147],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 100,
+        "questStepID": 525,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [435, 434],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 10,
+        "questStepID": 40,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [28],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 13,
+        "questStepID": 60,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [41, 436, 437, 42, 438, 43, 44, 45, 49, 46],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 40,
+        "questStepID": 232,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [210],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 39,
+        "questStepID": 230,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [202, 203, 204, 205, 208, 209, 206, 207],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 41,
+        "questStepID": 234,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [211],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 14,
+        "questStepID": 101,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [139, 149, 47, 50, 88, 89, 90, 91, 96, 97, 98],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 28,
+        "questStepID": 155,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [142, 143],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 12,
+        "questStepID": 54,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [35, 36, 37, 38, 39, 40],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 116,
+        "questStepID": 596,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [514],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 20,
+        "questStepID": 106,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [92, 93, 94, 95, 105, 106],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 24,
+        "questStepID": 128,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [108, 109, 110, 111, 112, 113, 114, 115, 116],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 114,
+        "questStepID": 584,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          495, 496, 497, 498, 499, 500, 501, 502, 503, 554, 504
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 119,
+        "questStepID": 615,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [556, 558, 557, 526, 527, 528, 529],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 115,
+        "questStepID": 593,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          505, 506, 507, 567, 508, 513, 509, 510, 511, 512
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 117,
+        "questStepID": 601,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [573, 515, 516, 517, 518],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 123,
+        "questStepID": 640,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          545, 546, 547, 552, 548, 549, 550, 553, 551, 568, 569, 570
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 120,
+        "questStepID": 621,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [531, 532, 533, 534, 535],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 122,
+        "questStepID": 632,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [540, 541, 542, 543, 544],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 124,
+        "questStepID": 656,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          559, 560, 574, 575, 561, 562, 563, 564, 565, 566
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 27,
+        "questStepID": 143,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [126, 127, 128],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 30,
+        "questStepID": 168,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [150, 151, 152, 153, 154],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 36,
+        "questStepID": 209,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [184, 185, 186, 187, 188, 192, 189],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 25,
+        "questStepID": 136,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [117, 118, 119, 121, 120, 122, 123],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 31,
+        "questStepID": 176,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          155, 156, 162, 157, 158, 159, 163, 160, 164, 161
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 33,
+        "questStepID": 187,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [169, 170, 174, 171],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 32,
+        "questStepID": 189,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [165, 166, 167, 173, 168, 172],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 42,
+        "questStepID": 240,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [245, 212, 213, 214, 215, 239, 216],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 44,
+        "questStepID": 248,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 47,
+        "questStepID": 267,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      }
+    ],
+    "savedMonolithQuests": [],
+    "maxWave": 0,
+    "competitiveCharacterVersion": 16,
+    "oneTimeEvents": [
+      "ChZNotification",
+      "ChANotification",
+      "A30VAActivate",
+      "A40PortalTutorialDisable",
+      "A40PortalTutorialFirst",
+      "A30ErzaUniqueDrop",
+      "A60-70Door",
+      "A30SavingLastRefugeIdols",
+      "A30RuneDoorOneTime",
+      "ChBNotification",
+      "B33SoulVesselSwap",
+      "B80RightObjective",
+      "B80LeftObjective",
+      "Reached EoT",
+      "Reached EoT Music",
+      "activate time travel EoT to C10",
+      "ChCNotification",
+      "ChDNotification",
+      "H40ZerrickFreed",
+      "H50Cinematic",
+      "H60BodyguardComplete",
+      "H120toH130open",
+      "D30RuneDoorOneTime",
+      "ChENotification",
+      "ChFNotification"
+    ],
+    "focusedQuest": -1,
+    "sceneProgresses": [
+      {
+        "scene": "Z10",
+        "progress": 962057535487,
+        "version": 1
+      },
+      {
+        "scene": "Z20",
+        "progress": 6015,
+        "version": 1
+      },
+      {
+        "scene": "Z30",
+        "progress": 4380445734027263,
+        "version": 1
+      },
+      {
+        "scene": "Z40",
+        "progress": 10952402477961232000,
+        "version": 1
+      },
+      {
+        "scene": "A04",
+        "progress": 16428576156942336000,
+        "version": 1
+      },
+      {
+        "scene": "A10",
+        "progress": 6476209249505772000,
+        "version": 1
+      },
+      {
+        "scene": "A30",
+        "progress": 4030202878,
+        "version": 1
+      },
+      {
+        "scene": "A3S10",
+        "progress": 241,
+        "version": 1
+      },
+      {
+        "scene": "A40",
+        "progress": 35051588070918144,
+        "version": 1
+      },
+      {
+        "scene": "A45",
+        "progress": 18176,
+        "version": 1
+      },
+      {
+        "scene": "A60TR",
+        "progress": 67553994813210620,
+        "version": 2
+      },
+      {
+        "scene": "A60",
+        "progress": 288221578447060740,
+        "version": 1
+      },
+      {
+        "scene": "A70",
+        "progress": 8986276049452095,
+        "version": 1
+      },
+      {
+        "scene": "A80",
+        "progress": 14,
+        "version": 1
+      },
+      {
+        "scene": "A90",
+        "progress": 17591112321023,
+        "version": 1
+      },
+      {
+        "scene": "B10",
+        "progress": 12533324488175616,
+        "version": 1
+      },
+      {
+        "scene": "B20",
+        "progress": 6548674303721487,
+        "version": 1
+      },
+      {
+        "scene": "B7S10",
+        "progress": 31866509819807,
+        "version": 1
+      },
+      {
+        "scene": "B33",
+        "progress": 8778913157121,
+        "version": 1
+      },
+      {
+        "scene": "B25",
+        "progress": 1920,
+        "version": 1
+      },
+      {
+        "scene": "B36",
+        "progress": 3848324120576,
+        "version": 2
+      },
+      {
+        "scene": "B40TR",
+        "progress": 144097287188920420,
+        "version": 2
+      },
+      {
+        "scene": "B1S30",
+        "progress": 40531558865829860,
+        "version": 1
+      },
+      {
+        "scene": "B1S40",
+        "progress": 34041154739634416,
+        "version": 1
+      },
+      {
+        "scene": "B40",
+        "progress": 270075274379411460,
+        "version": 2
+      },
+      {
+        "scene": "B50",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "B90",
+        "progress": 6425409484813,
+        "version": 1
+      },
+      {
+        "scene": "B100",
+        "progress": 17179876352,
+        "version": 1
+      },
+      {
+        "scene": "C10",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "C20",
+        "progress": 14498176429981742,
+        "version": 1
+      },
+      {
+        "scene": "C30",
+        "progress": 35584725183625216,
+        "version": 1
+      },
+      {
+        "scene": "B30",
+        "progress": 1064335845113855,
+        "version": 1
+      },
+      {
+        "scene": "B4S10",
+        "progress": 4194015,
+        "version": 1
+      },
+      {
+        "scene": "C1S10",
+        "progress": 17100154584432640,
+        "version": 1
+      },
+      {
+        "scene": "C35",
+        "progress": 540412417414891500,
+        "version": 1
+      },
+      {
+        "scene": "C40",
+        "progress": 540430864352804860,
+        "version": 1
+      },
+      {
+        "scene": "C50",
+        "progress": 263882664735743,
+        "version": 1
+      },
+      {
+        "scene": "C60",
+        "progress": 2885408137091,
+        "version": 1
+      },
+      {
+        "scene": "C65",
+        "progress": 147407,
+        "version": 1
+      },
+      {
+        "scene": "C70",
+        "progress": 16160885809082794000,
+        "version": 1
+      },
+      {
+        "scene": "C80",
+        "progress": 2248501262557183,
+        "version": 1
+      },
+      {
+        "scene": "Dun1Q30",
+        "progress": 2199023484941,
+        "version": 1
+      },
+      {
+        "scene": "H60",
+        "progress": 216172524348637200,
+        "version": 1
+      },
+      {
+        "scene": "H50",
+        "progress": 8589672447,
+        "version": 1
+      },
+      {
+        "scene": "H80",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "H90",
+        "progress": 439735937957824,
+        "version": 1
+      },
+      {
+        "scene": "H100",
+        "progress": 10664172074949198000,
+        "version": 1
+      },
+      {
+        "scene": "H105",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "H110",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "H120",
+        "progress": 13268906324070400,
+        "version": 1
+      },
+      {
+        "scene": "H130",
+        "progress": 6290431,
+        "version": 1
+      },
+      {
+        "scene": "H140",
+        "progress": 246290805948416,
+        "version": 1
+      },
+      {
+        "scene": "D10",
+        "progress": 15782304138949640,
+        "version": 1
+      },
+      {
+        "scene": "D20",
+        "progress": 13370059506449472,
+        "version": 1
+      },
+      {
+        "scene": "D35",
+        "progress": 0,
+        "version": 1
+      },
+      {
+        "scene": "D30",
+        "progress": 3386495813386743,
+        "version": 1
+      },
+      {
+        "scene": "D40",
+        "progress": 7044333568,
+        "version": 1
+      },
+      {
+        "scene": "D05",
+        "progress": 23089743685631,
+        "version": 1
+      },
+      {
+        "scene": "D50",
+        "progress": 9188328264207237000,
+        "version": 1
+      },
+      {
+        "scene": "D60",
+        "progress": 26387620888191,
+        "version": 1
+      },
+      {
+        "scene": "D80",
+        "progress": 8406931,
+        "version": 1
+      },
+      {
+        "scene": "E10",
+        "progress": 68658525110527,
+        "version": 1
+      },
+      {
+        "scene": "E20TR",
+        "progress": 2251524934008831,
+        "version": 1
+      },
+      {
+        "scene": "E20",
+        "progress": 517786673523195900,
+        "version": 1
+      },
+      {
+        "scene": "E30",
+        "progress": 1152921504404472000,
+        "version": 1
+      },
+      {
+        "scene": "E40",
+        "progress": 4610594684414189600,
+        "version": 1
+      },
+      {
+        "scene": "E50",
+        "progress": 29239276212249590,
+        "version": 1
+      },
+      {
+        "scene": "E1S10",
+        "progress": 2251784420522458000,
+        "version": 1
+      },
+      {
+        "scene": "E60",
+        "progress": 516095,
+        "version": 1
+      },
+      {
+        "scene": "E70",
+        "progress": 1116966501482622,
+        "version": 1
+      },
+      {
+        "scene": "E80",
+        "progress": 320193042328321900,
+        "version": 1
+      },
+      {
+        "scene": "E90",
+        "progress": 8998407203980283,
+        "version": 1
+      },
+      {
+        "scene": "E100",
+        "progress": 548682072064,
+        "version": 1
+      },
+      {
+        "scene": "F10",
+        "progress": 114342766804991,
+        "version": 1
+      },
+      {
+        "scene": "F20",
+        "progress": 4468419499916289,
+        "version": 1
+      },
+      {
+        "scene": "F30",
+        "progress": 257537,
+        "version": 1
+      },
+      {
+        "scene": "F40",
+        "progress": 4002282454646791,
+        "version": 1
+      },
+      {
+        "scene": "H40",
+        "progress": 25882477915013104,
+        "version": 1
+      }
+    ],
+    "monolithRuns": [],
+    "timelineCompletion": [],
+    "timelineDifficultyCompletion": [],
+    "timelineDifficultyUnlocks": [],
+    "currentMonolithRunTimelineID": 0,
+    "currentMonolithRunDifficultyIndex": 0,
+    "currentMonolithRunToSetBack": 0,
+    "currentMonolithRunToSetBackDifficultyIndex": 0,
+    "previousMonolithEchoTimelineID": 0,
+    "previousMonolithEchoDifficultyIndex": 0,
+    "monolithEchoesConquered": 0,
+    "monolithTimelinesConquered": 0,
+    "monolithOptions": [],
+    "activeMonolithMods": [],
+    "monolithDepth": 0,
+    "hasRerolledMonolithOptions": false,
+    "chosenMastery": 3,
+    "clickedUnlockMasteriesButton": false,
+    "currentArenaRunWaves": 0,
+    "previousArenaRunWaves": 0,
+    "activeArenaRun": {
+      "waves": 0,
+      "tier": 0,
+      "activeModIndices": []
+    },
+    "arenaTiersCompleted": [],
+    "blessingsDiscovered": [],
+    "activeDungeonRun": {
+      "dungeonID": 0,
+      "zoneIndex": 0,
+      "tier": 0,
+      "status": 0,
+      "soulEmbers": 0,
+      "lanternLuminosity": 0
+    },
+    "dungeonCompletion": [
+      {
+        "dungeonID": 0,
+        "tiersCompleted": [0, 1, 2]
+      }
+    ]
+  }
+]
