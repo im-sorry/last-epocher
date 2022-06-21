@@ -168,8 +168,12 @@ export const ITEM_BASE_MAP: Record<string, ITEM_BASE_DETAIL> = {
 
 export const KEY_MAP = {
   0: '竞技场',
+  1: '破碎钥匙',
+  2: '轻语钥匙',
+  3: '记忆的竞技场钥匙',
   4: '时空圣殿',
   5: '无光之亭',
+  6: '灵魂之火堡垒钥匙',
 };
 
 export const ITEM_QUALITY: Record<string, ITEM_QUALITY_DETAIL> = {
@@ -204,3 +208,4 @@ export const ITEM_QUALITY: Record<string, ITEM_QUALITY_DETAIL> = {
 };
 
 export const KEY_TYPE = 104;
+export const RUNE_TYPE = 101;

@@ -6,7 +6,7 @@ import Backup from '@/components/Backup.vue';
 import Persons from '@/components/Persons.vue'
 import Items from '@/components/item/Items.vue'
 import ItemDetail from '@/components/item/ItemDetail.vue'
-import { computed, onErrorCaptured, ref } from 'vue';
+import { computed, nextTick, onErrorCaptured, onMounted, ref } from 'vue';
 import { useStore } from '@/utils/hooks';
 import 'ant-design-vue/lib/message/style/index.css';
 
@@ -14,6 +14,7 @@ const store = useStore();
 const hasImported = computed(() => store.state.hasImported);
 const hasError = ref(false);
 const errorMsg = ref('');
+const itemsDiv = ref(null);
 
 onErrorCaptured((err) => {
   hasError.value = true;
@@ -30,9 +31,9 @@ onErrorCaptured((err) => {
       <Persons />
     </a-layout-sider>
     <a-layout-content>
-      <Items />
+      <Items ref="itemsDiv" />
     </a-layout-content>
-    <a-layout-sider>
+    <a-layout-sider class="right-sider">
       <ItemDetail />
     </a-layout-sider>
   </a-layout>
@@ -60,6 +61,12 @@ body {
   height: 100%;
 }
 
+.right-sider {
+  flex: 0 0 250px !important;
+  min-width: 250px !important;
+  width: 250px !important;
+}
+
 .base-color {
   color: var(--base-color) !important;
 }
@@ -77,5 +84,12 @@ body {
   left: 0;
   right: 0;
   margin: auto;
+}
+
+.attribute-title {
+  color: aliceblue;
+  text-align: left;
+  font-weight: bold;
+  font-size: 16px;
 }
 </style>

@@ -3,6 +3,7 @@ import { ref, computed } from 'vue'
 import Title from './Title.vue';
 import BaseRollVue from './BaseRoll.vue';
 import AffixVue from './Affix.vue';
+import AdvancedRollVue from './AdvancedRoll.vue';
 
 import { useStore } from '@/utils/hooks';
 
@@ -15,6 +16,7 @@ const currentItem = computed(() => store.state.currentItem);
   <div class="wrapper-key-item">
     <Title />
     <BaseRollVue />
+    <AdvancedRollVue />
     <AffixVue :start-index="17" />
   </div>
 </template>

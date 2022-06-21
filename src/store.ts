@@ -20,6 +20,7 @@ export default createStore<Store>({
     },
     setCurrentPersonIndex(state, index: number) {
       state.currentPersonIndex = index;
+      state.currentItem = null;
     },
     setCurrentItem(state, item: Item) {
       if (state.currentItem) {
@@ -39,9 +40,8 @@ export default createStore<Store>({
         message.error('未找到相应物品，请刷新重试');
         return;
       }
-      console.log(index, '=========');
-      person.savedItems[index] = item;
-      state.persons[state.currentPersonIndex] = { ...person };
+      state.persons[state.currentPersonIndex].savedItems[index].data =
+        item.data;
     },
   },
 });

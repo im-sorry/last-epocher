@@ -1,22 +1,23 @@
 <script setup lang="ts">
 import { computed, ref, unref } from 'vue'
 import { useStore } from '@/utils/hooks';
-import { isLegendaryItem, isAdvanceItem, isKey, isStatue } from '@/utils/item';
+import { isLegendaryItem, isAdvanceItem, isKey, isStatue, isRune } from '@/utils/item';
 import AdvancedItemVue from './components/AdvancedItem.vue';
 import KeyItemVue from './components/KeyItem.vue';
 import LegendaryItemVue from './components/LegendaryItem.vue';
 import NormalItemVue from './components/NormalItem.vue';
 import StatueItemVue from './components/StatueItem.vue';
+import RuneItemVue from './components/RuneItem.vue';
 import { message } from 'ant-design-vue';
 
 const store = useStore();
 const currentItem = computed(() => store.state.currentItem);
 const getKey = (type: string) => {
-  return currentItem.value ? `${type}-${currentItem.value.inventoryPosition.x}-${currentItem.value.inventoryPosition.y}` : '0'
+  return currentItem.value ? `${type}-${currentItem.value.inventoryPosition.x}-${currentItem.value.inventoryPosition.y}-${currentItem.value.data[3] || ''}` : '0'
 }
 const onApply = () => {
   store.commit('updateItem', unref(currentItem));
-  message.success('应用成功');
+  message.success('同步成功');
 }
 </script>
 
@@ -24,11 +25,12 @@ const onApply = () => {
   <div class="wrapper-item-detail">
     <span v-if="!Boolean(currentItem)" class="abs-center none-span">请先选择物品</span>
     <StatueItemVue v-else-if="isStatue(currentItem!)" :key="getKey('statue')" />
+    <RuneItemVue v-else-if="isRune(currentItem!)" :key="getKey('Rune')" />
     <KeyItemVue v-else-if="isKey(currentItem!)" :key="getKey('key')" />
     <AdvancedItemVue v-else-if="isAdvanceItem(currentItem!)" :key="getKey('Advanced')" />
     <LegendaryItemVue v-else-if="isLegendaryItem(currentItem!)" :key="getKey('Legendary')" />
-    <NormalItemVue v-else />
-    <a-button type="primary" class="submit" @click="onApply" v-if="Boolean(currentItem)">应用到仓库</a-button>
+    <NormalItemVue v-else :key="getKey('Normal')" />
+    <a-button type="primary" class="submit" @click="onApply" v-if="Boolean(currentItem)">同步到仓库</a-button>
   </div>
 </template>
 
@@ -43,7 +45,7 @@ const onApply = () => {
   }
 
   .submit {
-    margin-top: 100px;
+    margin-top: 50px;
   }
 }
 </style>

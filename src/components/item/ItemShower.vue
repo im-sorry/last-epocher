@@ -33,7 +33,7 @@ const onClick = () => {
 <template>
   <div class="wrapper-item flex-center" :style="style" @click="onClick">
     <span>
-      <span style="font-size:0.5em">({{ quality }})</span> {{ name }} </span>
+      <span style="font-size:0.5em">{{ quality ? `(${quality})` : '' }}</span> {{ name }} </span>
   </div>
 </template>
 

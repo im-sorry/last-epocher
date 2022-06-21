@@ -10,13 +10,11 @@ const {
   name,
   color,
   quality,
-  x,
-  y
 } = getItemDetail(currentItem.value!);
 </script>
 
 <template>
-  <div class="title" :style="{ color }">({{ quality }}){{ name }}</div>
+  <div class="title" :style="{ color }" :key="quality">{{ quality ? `(${quality})` : '' }}{{ name }}</div>
 </template>
 
 <style scoped>

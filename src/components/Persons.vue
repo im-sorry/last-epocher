@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import ImportVue from './Import.vue';
-import { PlusSquareOutlined } from '@ant-design/icons-vue';
+import { PlusSquareOutlined, DownloadOutlined } from '@ant-design/icons-vue';
 import { message } from 'ant-design-vue';
 import { getMasteryName } from '@/utils/character';
-import { computed, ref } from 'vue'
+import { computed, ref, unref } from 'vue'
 import { useStore } from '@/utils/hooks';
 
 const store = useStore();
@@ -30,6 +30,15 @@ const onImportChange = (success: boolean) => {
 const onAdd = () => {
   modalVisible.value = true;
 }
+const download = (p: Person) => {
+  const text = `EPOCH${JSON.stringify(p)}`;
+  const file = new File([text], '11111')
+  const url = URL.createObjectURL(file);
+  const a = document.createElement('a');
+  a.download = '22222'
+  a.href = url;
+  a.click();
+}
 
 </script>
 
@@ -39,8 +48,11 @@ const onAdd = () => {
     <PlusSquareOutlined class="add-icon" @click="onAdd" />
   </div>
   <a-menu :selectedKeys="[currentPersonIndex]" mode="inline" theme="dark" @click="onChangePerson">
-    <a-menu-item :key="index" v-for="(p, index) in persons" style="height:60px">
-      <div class="character-name">{{ p.characterName }}</div> {{ masteryName(p) }}
+    <a-menu-item :key="index" v-for="(p, index) in persons" style="height:60px;position: relative;">
+      <div class="character-name">{{ p.characterName }}</div> {{ masteryName(p) }} <a-tooltip>
+        <template #title>导出角色文件</template>
+        <DownloadOutlined class="download-icon" @click="download(p)" />
+      </a-tooltip>
     </a-menu-item>
   </a-menu>
   <a-modal v-model:visible="modalVisible" title="添加角色" :footer="null">
@@ -51,6 +63,16 @@ const onAdd = () => {
 <style scoped lang="less">
 .character-name {
   height: 25px;
+}
+
+.download-icon {
+  position: absolute;
+  right: 10px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 15px;
+  font-size: 20px;
 }
 
 .person-list-title {

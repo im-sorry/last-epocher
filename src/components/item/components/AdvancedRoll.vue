@@ -13,7 +13,7 @@ const onChange = (index: number, value: number) => {
 
 <template>
   <div class="wrapper-base-roll">
-    <div class="title">装备属性roll值</div>
+    <div class="attribute-title">装备属性roll值</div>
     <a-slider v-for="item in 8" :max="255" :min="0" :value="currentItem.data[item + startIndex]"
       @change="(val: number) => onChange(item, val)" />
   </div>

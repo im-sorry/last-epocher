@@ -6,10 +6,7 @@ import ItemGrid from './ItemGrid.vue';
 import { BAG_TYPE } from '@/constants/character';
 
 const store = useStore();
-const persons = computed(() => store.state.persons);
-const currentPersonIndex = computed(() => store.state.currentPersonIndex);
-const person = persons.value[currentPersonIndex.value];
-const bagItems = computed(() => person.savedItems.filter(item => {
+const bagItems = computed(() => store.state.persons[store.state.currentPersonIndex].savedItems.filter(item => {
   return item.containerID === BAG_TYPE.背包;
 }));
 const hasBagItem = computed(() => Boolean(bagItems.value.length));
@@ -33,7 +30,6 @@ onMounted(() => {
     showGrid.value = true;
   })
 })
-console.log(bagItems, '?????')
 </script>
 
 <template>
@@ -43,7 +39,7 @@ console.log(bagItems, '?????')
       <div v-if="showGrid" :style="{ width: `${bagWidth}px`, height: `${bagHeight}px` }">
         <ItemGrid :has-item="hasBagItem">
           <template v-if="hasBagItem">
-            <ItemShower v-for="(item, index) in bagItems" :key="index" :item="item" />
+            <ItemShower v-for="(item, index) in bagItems" :key="`${item.data[3]}-${index}`" :item="item" />
           </template>
         </ItemGrid>
       </div>

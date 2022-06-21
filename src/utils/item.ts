@@ -3,6 +3,7 @@ import {
   ITEM_QUALITY,
   KEY_TYPE,
   KEY_MAP,
+  RUNE_TYPE,
 } from '@/constants/item';
 
 export const isStatue = (item: Item) => {
@@ -25,6 +26,11 @@ export const isKey = (item: Item) => {
   return type === KEY_TYPE;
 };
 
+export const isRune = (item: Item) => {
+  const type = item.data[1];
+  return type === RUNE_TYPE;
+};
+
 const getItemQuality = (item: Item): ITEM_QUALITY_DETAIL => {
   if (isStatue(item)) {
     return ITEM_QUALITY[2];
@@ -33,6 +39,12 @@ const getItemQuality = (item: Item): ITEM_QUALITY_DETAIL => {
     return {
       color: ITEM_QUALITY[9].color,
       quality: '钥匙',
+    };
+  }
+  if (isRune(item)) {
+    return {
+      color: ITEM_QUALITY[3].color,
+      quality: '',
     };
   }
   return (
@@ -48,7 +60,6 @@ const getKeyName = (item: Item) => {
 };
 
 const getItemBaseDetail = (item: Item): ITEM_BASE_DETAIL => {
-  const baseKey = `${item.data[0]}${item.data[1]}`;
   if (isKey(item)) {
     return {
       name: getKeyName(item),
@@ -56,6 +67,14 @@ const getItemBaseDetail = (item: Item): ITEM_BASE_DETAIL => {
       h: 1,
     };
   }
+  if (isRune(item)) {
+    return {
+      name: '铭文',
+      w: 1,
+      h: 1,
+    };
+  }
+  const baseKey = `${item.data[0]}${item.data[1]}`;
   return (
     ITEM_BASE_MAP[baseKey] || {
       name: '未知部位',
@@ -96,4 +115,17 @@ export const copyItem = (item: Record<string, any>): Item => {
     }
   });
   return result;
+};
+
+export const isGreenDress = (item: Item) => {
+  return item.data[3] === 8;
+};
+
+export const hasT7Affix = (start: number, item: Item) => {
+  const num = item.data[start];
+  if (!num) return false;
+  for (let i = start + 1; i <= start + num * 3; i += 3) {
+    if (item.data[i] >= 80) return true;
+  }
+  return false;
 };

@@ -43,7 +43,9 @@ declare type QUALITY_NAME =
   | '绿装'
   | '传奇'
   | '钥匙'
-  | '未知';
+  | '铭文'
+  | '未知'
+  | '';
 
 declare interface ITEM_DETAIL {
   name: string;
