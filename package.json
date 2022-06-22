@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview"
+    "build": "vue-tsc --noEmit && vite build && yarn afterBuild",
+    "preview": "vite preview",
+    "afterBuild": "node afterBuild.js"
   },
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",
