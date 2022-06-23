@@ -6,12 +6,12 @@ import Backup from '@/components/Backup.vue';
 import Persons from '@/components/Persons.vue'
 import Items from '@/components/item/Items.vue'
 import ItemDetail from '@/components/item/ItemDetail.vue'
-import { computed, nextTick, onErrorCaptured, onMounted, ref } from 'vue';
+import { computed, onErrorCaptured, ref } from 'vue';
 import { useStore } from '@/utils/hooks';
 import 'ant-design-vue/lib/message/style/index.css';
 
 const store = useStore();
-const hasImported = computed(() => store.state.hasImported);
+const hasImported = computed(() => Boolean(store.state.persons.length));
 const hasError = ref(false);
 const errorMsg = ref('');
 const itemsDiv = ref(null);
@@ -62,9 +62,9 @@ body {
 }
 
 .right-sider {
-  flex: 0 0 250px !important;
-  min-width: 250px !important;
-  width: 250px !important;
+  flex: 0 0 260px !important;
+  min-width: 260px !important;
+  width: 260px !important;
 }
 
 .base-color {

@@ -39,6 +39,7 @@ const onApply = () => {
   position: relative;
   height: 100%;
   overflow-y: auto;
+  padding-right: 6px;
 
   .none-span {
     height: 20px;

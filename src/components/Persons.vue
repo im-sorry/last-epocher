@@ -3,11 +3,12 @@ import ImportVue from './Import.vue';
 import { PlusSquareOutlined, DownloadOutlined } from '@ant-design/icons-vue';
 import { message } from 'ant-design-vue';
 import { getMasteryName } from '@/utils/character';
-import { computed, ref, unref } from 'vue'
+import { computed, ref } from 'vue'
 import { useStore } from '@/utils/hooks';
 
 const store = useStore();
 const currentPersonIndex = computed(() => store.state.currentPersonIndex);
+const filename = computed(() => store.state.fileNames[currentPersonIndex.value]);
 const persons = computed(() => store.state.persons);
 
 const modalVisible = ref(false);
@@ -32,10 +33,10 @@ const onAdd = () => {
 }
 const download = (p: Person) => {
   const text = `EPOCH${JSON.stringify(p)}`;
-  const file = new File([text], '11111')
+  const file = new File([text], filename.value)
   const url = URL.createObjectURL(file);
   const a = document.createElement('a');
-  a.download = '22222'
+  a.download = filename.value;
   a.href = url;
   a.click();
 }

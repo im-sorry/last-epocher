@@ -3,6 +3,7 @@ import { InboxOutlined } from '@ant-design/icons-vue';
 import { useStore } from '@/utils/hooks';
 
 import { decodeFile } from '@/utils/archive';
+import { message } from 'ant-design-vue';
 
 interface FileItem {
   uid: string;
@@ -23,36 +24,48 @@ const { onChange } = defineProps<{
 
 const store = useStore();
 
-const handleChange = (info: FileInfo) => {
-  Promise.all(info.fileList.map((file: any) => new Promise(resolve => {
+const handleChange = (info: FileInfo, fileList: FileInfo[]) => {
+  Promise.all(fileList.map((file: any) => new Promise<{ result: Person; name: string } | null>(resolve => {
     const fileReader = new FileReader();
     fileReader.onload = (ev) => {
       if (!ev.target) {
-        resolve('');
+        resolve(null);
         return;
       };
       if (ev.target.result) {
-        resolve(decodeFile(ev.target.result as string));
+        let result = null;
+        try {
+          result = decodeFile(ev.target.result as string);
+        } catch (error) {
+          message.error('解析人物文件失败')
+          resolve(null);
+          return;
+        }
+        resolve({
+          result,
+          name: file.name,
+        });
       }
     }
-    fileReader.readAsText(new Blob([file.originFileObj]));
-  }))).then(persons => {
-    store.commit('setPersons', persons.filter(Boolean))
+    fileReader.readAsText(new Blob([file]));
+  }))).then((persons) => {
+    store.commit('addPerson', persons.filter(Boolean).map(item => item?.result));
+    store.commit('addFileName', persons.filter(Boolean).map(item => item?.name));
     onChange && onChange(true);
   }).catch(() => {
     onChange && onChange(false);
   });
+  return false;
 };
 </script>
 
 <template>
   <div class="wrapper">
-    <a-upload-dragger :before-upload="() => false" name="file" :multiple="true" @change="handleChange" class="upload">
+    <a-upload-dragger :before-upload="handleChange" name="file" class="upload">
       <p class="ant-upload-drag-icon">
         <inbox-outlined></inbox-outlined>
       </p>
       <p class="ant-upload-text base-color">点击选择文件或拖拽角色文件到这里</p>
-      <p class="ant-upload-hint base-color">支持解析单个文件或者多个文件</p>
     </a-upload-dragger>
   </div>
 </template>

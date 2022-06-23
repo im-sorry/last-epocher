@@ -6,17 +6,19 @@ import { message } from 'ant-design-vue';
 export default createStore<Store>({
   state() {
     return {
-      persons: tempPersons as Person[],
+      persons: [], //tempPersons as Person[],
+      fileNames: [],
       currentPersonIndex: 0,
-      hasImported: true,
       currentItem: null,
       showApplyButton: false,
     };
   },
   mutations: {
-    setPersons(state, persons: Person[]) {
+    addPerson(state, persons: Person[]) {
       state.persons = [...state.persons, ...persons];
-      state.hasImported = Boolean(persons.length);
+    },
+    addFileName(state, filenames: string[]) {
+      state.fileNames = [...state.fileNames, ...filenames];
     },
     setCurrentPersonIndex(state, index: number) {
       state.currentPersonIndex = index;

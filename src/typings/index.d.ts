@@ -29,9 +29,9 @@ declare interface Person {
 declare interface Store {
   persons: Person[];
   currentPersonIndex: number;
-  hasImported: boolean;
   currentItem: Item | null;
   showApplyButton: boolean;
+  fileNames: string[];
 }
 
 declare type QUALITY_NAME =
@@ -66,4 +66,11 @@ declare interface ITEM_BASE_DETAIL {
   name: string;
   w: number;
   h: number;
+}
+
+declare interface Affix_Item {
+  main: number;
+  sub: number;
+  detail: string;
+  subDetail: string;
 }

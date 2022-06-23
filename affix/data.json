@@ -1,0 +1,3968 @@
+[
+  {
+    "main": 0,
+    "sub": 0,
+    "detail": "提高冰霜伤害%（超300魔力）",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 1,
+    "detail": "护甲%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 2,
+    "detail": "近战攻击速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 3,
+    "detail": "格挡机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 4,
+    "detail": "施法速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 5,
+    "detail": "暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 6,
+    "detail": "暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 7,
+    "detail": "虚空抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 8,
+    "detail": "躲避值",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 9,
+    "detail": "元素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 10,
+    "detail": "腐化抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 11,
+    "detail": "火焰伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 12,
+    "detail": "冻结机率加成%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 13,
+    "detail": "冻结机率加成%",
+    "subDetail": "冰霜抗性%"
+  },
+  {
+    "main": 0,
+    "sub": 14,
+    "detail": "火焰抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 15,
+    "detail": "虚空伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 16,
+    "detail": "冰霜伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 17,
+    "detail": "腐化伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 18,
+    "detail": "冰霜抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 19,
+    "detail": "毒素抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 20,
+    "detail": "击败回复生命",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 21,
+    "detail": "魔力再生%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 22,
+    "detail": "生命再生%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 23,
+    "detail": "闪电伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 24,
+    "detail": "闪电抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 25,
+    "detail": "召唤物伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 26,
+    "detail": "生命",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 27,
+    "detail": "提高冷却恢复速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 28,
+    "detail": "移动速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 29,
+    "detail": "晕眩避免",
+    "subDetail": "晕眩避免%"
+  },
+  {
+    "main": 0,
+    "sub": 30,
+    "detail": "物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 31,
+    "detail": "护甲",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 32,
+    "detail": "火焰穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 33,
+    "detail": "物理穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 34,
+    "detail": "魔力",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 35,
+    "detail": "冰霜穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 36,
+    "detail": "生命",
+    "subDetail": "生命%"
+  },
+  {
+    "main": 0,
+    "sub": 37,
+    "detail": "毒素穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 38,
+    "detail": "法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 39,
+    "detail": "闪电穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 40,
+    "detail": "生命偷取%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 41,
+    "detail": "格挡时获得生命",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 42,
+    "detail": "法术闪电伤害",
+    "subDetail": "闪电伤害偷取生命%"
+  },
+  {
+    "main": 0,
+    "sub": 43,
+    "detail": "提高治疗效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 44,
+    "detail": "近战击中获得生命",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 45,
+    "detail": "物理抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 46,
+    "detail": "所有抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 47,
+    "detail": "机率冰缓攻击者%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 48,
+    "detail": "机率缓速攻击者%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 49,
+    "detail": "自适应法术伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 50,
+    "detail": "全属性",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 51,
+    "detail": "晕眩避免",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 52,
+    "detail": "生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 53,
+    "detail": "伤害转为魔力承受%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 54,
+    "detail": "击中时造成中毒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 55,
+    "detail": "击中点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 56,
+    "detail": "击中冰缓机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 57,
+    "detail": "击中时机率缓速%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 58,
+    "detail": "提高晕眩机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 59,
+    "detail": "躲避值%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 60,
+    "detail": "击中致盲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 61,
+    "detail": "毒素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 62,
+    "detail": "近战暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 63,
+    "detail": "近战物理伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 64,
+    "detail": "召唤物物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 65,
+    "detail": "提高获得药水机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 66,
+    "detail": "是用药水时获得能力护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 67,
+    "detail": "冻结率加成%",
+    "subDetail": "使用药水时机率释放冰冻%"
+  },
+  {
+    "main": 0,
+    "sub": 68,
+    "detail": "击中流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 69,
+    "detail": "近战伤害偷取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 70,
+    "detail": "召唤物生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 71,
+    "detail": "召唤物躲避值",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 72,
+    "detail": "持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 73,
+    "detail": "召唤物生命再生",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 74,
+    "detail": "格挡时承受伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 75,
+    "detail": "使用药水时机率%获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 76,
+    "detail": "近战虚空伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 77,
+    "detail": "近战火焰伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 78,
+    "detail": "近战冰霜伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 79,
+    "detail": "近战闪电伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 80,
+    "detail": "元素抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 81,
+    "detail": "格挡效果",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 82,
+    "detail": "药剂栏位",
+    "subDetail": "使用药水时获得生命"
+  },
+  {
+    "main": 0,
+    "sub": 83,
+    "detail": "药水生命值转化能量护盾%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 84,
+    "detail": "法术暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 85,
+    "detail": "击感电点机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 86,
+    "detail": "击中粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 87,
+    "detail": "投掷攻击速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 88,
+    "detail": "投掷攻击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 89,
+    "detail": "近战伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 90,
+    "detail": "每秒生命再生",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 91,
+    "detail": "提高近战攻击晕眩机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 92,
+    "detail": "耐伤%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 93,
+    "detail": "腐化穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 94,
+    "detail": "机率感电攻击者%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 95,
+    "detail": "伤害反射",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 96,
+    "detail": "伤害反射%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 97,
+    "detail": "暴击避免%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 98,
+    "detail": "召唤物持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 99,
+    "detail": "击败获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 100,
+    "detail": "元素持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 101,
+    "detail": "投掷火焰伤害",
+    "subDetail": "增加承受火焰伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 102,
+    "detail": "召唤物法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 103,
+    "detail": "引导期间造成伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 104,
+    "detail": "引导期间所有抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 105,
+    "detail": "生命",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 106,
+    "detail": "击败恢复生命",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 107,
+    "detail": "生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 108,
+    "detail": "生命再生%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 109,
+    "detail": "魔力",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 110,
+    "detail": "护甲",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 111,
+    "detail": "火焰抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 112,
+    "detail": "冰霜抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 113,
+    "detail": "闪电抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 114,
+    "detail": "腐化抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 115,
+    "detail": "虚空抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 116,
+    "detail": "毒素抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 117,
+    "detail": "躲避值",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 118,
+    "detail": "元素抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 119,
+    "detail": "增加持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 120,
+    "detail": "机率%被击中获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 121,
+    "detail": "提高晕眩机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 122,
+    "detail": "使用药水时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 123,
+    "detail": "药水恢复生命%转化能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 124,
+    "detail": "活力",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 125,
+    "detail": "冰霜击中流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 126,
+    "detail": "变形期间的元素抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 127,
+    "detail": "增加火焰持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 128,
+    "detail": "提高流血持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 129,
+    "detail": "护甲%",
+    "subDetail": "魔力%"
+  },
+  {
+    "main": 0,
+    "sub": 130,
+    "detail": "图腾生命值%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 131,
+    "detail": "图腾护甲",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 132,
+    "detail": "变形期间生命再生%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 133,
+    "detail": "图腾元素抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 134,
+    "detail": "暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 135,
+    "detail": "提高治疗效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 136,
+    "detail": "晕眩避免",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 137,
+    "detail": "冻结率加成%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 138,
+    "detail": "击中流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 139,
+    "detail": "击中点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 140,
+    "detail": "击中时造成中毒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 141,
+    "detail": "击中感电机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 142,
+    "detail": "能量护盾维持%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 143,
+    "detail": "提高晕眩持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 144,
+    "detail": "增加图腾施法速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 145,
+    "detail": "召唤物近战生命偷取%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 146,
+    "detail": "召唤物躲避值",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 147,
+    "detail": "提高召唤物冷却恢复速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 148,
+    "detail": "增加召唤物近战攻速%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 149,
+    "detail": "提高召唤物治疗效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 150,
+    "detail": "提高召唤物近战造成晕眩机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 151,
+    "detail": "提高召唤物暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 152,
+    "detail": "提高召唤物流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 153,
+    "detail": "召唤物近战暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 154,
+    "detail": "召唤物击中造成中毒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 155,
+    "detail": "变形期间近战伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 156,
+    "detail": "法术伤害引导期间偷取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 157,
+    "detail": "增加变形期间法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 158,
+    "detail": "增加变形期间持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 159,
+    "detail": "增加变形期间近战暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 160,
+    "detail": "近战流血机率%",
+    "subDetail": "召唤物近战流血机率%"
+  },
+  {
+    "main": 0,
+    "sub": 161,
+    "detail": "提高流血持续时间%",
+    "subDetail": "召唤物流血持续时间%"
+  },
+  {
+    "main": 0,
+    "sub": 162,
+    "detail": "暴击避免%",
+    "subDetail": "召唤物暴击避免%"
+  },
+  {
+    "main": 0,
+    "sub": 163,
+    "detail": "冰霜技能机率冻伤%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 164,
+    "detail": "图腾暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 165,
+    "detail": "冰霜技能机率冻伤%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 166,
+    "detail": "减少引导期间承受持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 167,
+    "detail": "点燃持续时间%",
+    "subDetail": "蔓延火焰持续时间%"
+  },
+  {
+    "main": 0,
+    "sub": 168,
+    "detail": "闪电技能暴击率%",
+    "subDetail": "召唤物闪电暴击率%"
+  },
+  {
+    "main": 0,
+    "sub": 169,
+    "detail": "冰霜伤害%",
+    "subDetail": "闪电伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 170,
+    "detail": "法术伤害%",
+    "subDetail": "召唤物法术伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 171,
+    "detail": "近战伤害%",
+    "subDetail": "召唤物近战伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 172,
+    "detail": "物理伤害%",
+    "subDetail": "毒素伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 173,
+    "detail": "冻伤持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 174,
+    "detail": "持续伤害%",
+    "subDetail": "召唤物持续伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 175,
+    "detail": "近战击中获得护盾机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 176,
+    "detail": "增加冰霜持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 177,
+    "detail": "增加火焰持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 178,
+    "detail": "每秒生成护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 179,
+    "detail": "近战元素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 180,
+    "detail": "火焰技能点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 181,
+    "detail": "闪电技能感电机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 182,
+    "detail": "提高点燃效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 183,
+    "detail": "提高冻伤效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 184,
+    "detail": "提高感电效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 185,
+    "detail": "提高闪电技能暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 186,
+    "detail": "近战火焰伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 187,
+    "detail": "近战闪电伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 188,
+    "detail": "近战冰霜伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 189,
+    "detail": "法术火焰伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 190,
+    "detail": "法术闪电伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 191,
+    "detail": "最大骷髅数量",
+    "subDetail": "提高骷髅伤害%"
+  },
+  {
+    "main": 0,
+    "sub": 192,
+    "detail": "法术冰霜伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 193,
+    "detail": "法术致盲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 194,
+    "detail": "物理持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 195,
+    "detail": "虚空法术魔力效率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 196,
+    "detail": "增加护甲%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 197,
+    "detail": "格挡效果",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 198,
+    "detail": "击中粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 199,
+    "detail": "投掷攻击暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 200,
+    "detail": "投掷攻击眩晕机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 201,
+    "detail": "时间腐朽持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 202,
+    "detail": "承受火焰伤害视为物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 203,
+    "detail": "承受闪电伤害视为物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 204,
+    "detail": "承受冰霜伤害视为物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 205,
+    "detail": "近战攻击火焰穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 206,
+    "detail": "火焰技能粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 207,
+    "detail": "虚空技能造成缓速机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 208,
+    "detail": "高生命状态下造成流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 209,
+    "detail": "高生命状态下造成点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 210,
+    "detail": "伤害反射%",
+    "subDetail": "召唤物伤害反射%"
+  },
+  {
+    "main": 0,
+    "sub": 211,
+    "detail": "近战攻击粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 212,
+    "detail": "投掷攻击粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 213,
+    "detail": "召唤图腾获得急速机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 214,
+    "detail": "消耗魔力对附近1个敌人释放闪电机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 215,
+    "detail": "击败是使用随机动物伙伴能力机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 216,
+    "detail": "每10秒自动召唤蜜蜂",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 217,
+    "detail": "释放消耗20魔力技能冰缓敌人机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 218,
+    "detail": "击中时召唤荆棘图腾机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 219,
+    "detail": "变形回人类形态获得魔力",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 220,
+    "detail": "被击中时释放冰刺机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 221,
+    "detail": "每5秒自动释放漩涡机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 222,
+    "detail": "被攻击时释放治愈新星机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 223,
+    "detail": "近战攻击时在一个敌人脚下制造余震机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 224,
+    "detail": "释放法术时对1个附近敌人释放巨石雪崩机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 225,
+    "detail": "近战攻击时对敌人释放巨石雪崩机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 226,
+    "detail": "提高鲨鱼之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 227,
+    "detail": "提高鲨鱼之势持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 228,
+    "detail": "提高野猪之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 229,
+    "detail": "提高野猪之势持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 230,
+    "detail": "提高毒蛇之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 231,
+    "detail": "提高毒蛇之势持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 232,
+    "detail": "提高猞猁之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 233,
+    "detail": "提高猞猁之势持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 234,
+    "detail": "有图腾时提高法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 235,
+    "detail": "近战击杀随机召唤物恢复满血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 236,
+    "detail": "每个活动图腾提高冰霜伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 237,
+    "detail": "使用传送后免疫晕眩秒数",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 238,
+    "detail": "暴击释放火焰光环机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 239,
+    "detail": "扩大元素新星范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 240,
+    "detail": "提高火焰光环伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 241,
+    "detail": "每秒生成静电充能",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 242,
+    "detail": "拥有闪电之盾时提高施法速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 243,
+    "detail": "释放火焰护盾时获得能力护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 244,
+    "detail": "被击中时获得闪电护盾机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 245,
+    "detail": "被击中时释放元素新星机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 246,
+    "detail": "提高熔岩球伤害%",
+    "subDetail": "降低熔岩球速度%"
+  },
+  {
+    "main": 0,
+    "sub": 247,
+    "detail": "豁达火焰光环范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 248,
+    "detail": "击中释放火焰光环机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 249,
+    "detail": "低生命状态时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 250,
+    "detail": "拥有闪电之盾时伤害反射%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 251,
+    "detail": "拥有闪电之盾时击中释放闪电冲击机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 252,
+    "detail": "拥有闪电之盾时提高闪电伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 253,
+    "detail": "火焰法术击败是释放火焰光环机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 254,
+    "detail": "提高闪电伤害%（超300魔力）",
+    "subDetail": ""
+  },
+  {
+    "main": 0,
+    "sub": 255,
+    "detail": "虚空穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 0,
+    "detail": "提高火焰伤害%（魔力超300）",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 1,
+    "detail": "生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 2,
+    "detail": "低生命状态下造成中毒%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 3,
+    "detail": "增加低生命状态下的持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 4,
+    "detail": "击中时施加咒蚀机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 5,
+    "detail": "增加变形期间造成的伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 6,
+    "detail": "减少变形期间承受的持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 7,
+    "detail": "变形期间的上伤害偷取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 8,
+    "detail": "降低法术的生命消耗%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 9,
+    "detail": "腐化技能冰缓机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 10,
+    "detail": "扩大腐朽光环范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 11,
+    "detail": "白骨装甲授予的护甲",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 12,
+    "detail": "减少生命再生%",
+    "subDetail": "减少承受的持续伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 13,
+    "detail": "增加治疗效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 14,
+    "detail": "扩大旋风斩范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 15,
+    "detail": "击败是释放虚空裂隙机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 16,
+    "detail": "击中施加时间腐朽机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 17,
+    "detail": "击败时制造虚空净化机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 18,
+    "detail": "增加Area of Void范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 19,
+    "detail": "使用无消耗技能时释放神圣之箭机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 20,
+    "detail": "使用投掷攻击时释放惩戒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 21,
+    "detail": "被晕眩时获得生命",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 22,
+    "detail": "技能回响时提高回响伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 23,
+    "detail": "当有技能回响时4秒内提高虚空伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 24,
+    "detail": "当有技能回响时4秒内提高近战伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 25,
+    "detail": "使用虚空技能击败时获得灵感机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 26,
+    "detail": "若你近期有释放吞噬球在4秒内提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 27,
+    "detail": "增加深渊腐烂持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 28,
+    "detail": "击中时机率造成恐惧%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 29,
+    "detail": "能量护盾维持%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 30,
+    "detail": "提高召唤物冷却恢复速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 31,
+    "detail": "召唤物击中造成瘟疫机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 32,
+    "detail": "召唤物击中时施加死亡印记机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 33,
+    "detail": "减少承受的持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 34,
+    "detail": "物理法术击中造成流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 35,
+    "detail": "击中造成瘟疫机率%",
+    "subDetail": "增加瘟疫效果%"
+  },
+  {
+    "main": 1,
+    "sub": 36,
+    "detail": "增加低生命状态下的法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 37,
+    "detail": "增加召唤物火焰伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 38,
+    "detail": "增加召唤物冰霜伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 39,
+    "detail": "增加物理法术暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 40,
+    "detail": "法术击中造成中毒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 41,
+    "detail": "增加希望印记持续的时间",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 42,
+    "detail": "暴击率%",
+    "subDetail": "召唤物暴击率%"
+  },
+  {
+    "main": 1,
+    "sub": 43,
+    "detail": "使用盾牌投掷时额外造成20火焰伤害机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 44,
+    "detail": "盾牌投掷伤害转换为虚空伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 45,
+    "detail": "增加闪电伤害值飞锤投掷",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 46,
+    "detail": "提高骨刺投射物速度%",
+    "subDetail": "提高白骨新星投射物速度%"
+  },
+  {
+    "main": 1,
+    "sub": 47,
+    "detail": "被击中时释放毒素新星机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 48,
+    "detail": "饥饿灵魂发射6发额外投射物机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 49,
+    "detail": "审判暴击伤害加成%",
+    "subDetail": "撕裂暴击伤害加成%"
+  },
+  {
+    "main": 1,
+    "sub": 50,
+    "detail": "扩大撕裂范围%",
+    "subDetail": "扩大锻造打击范围%"
+  },
+  {
+    "main": 1,
+    "sub": 51,
+    "detail": "提高复仇伤害%",
+    "subDetail": "提高惩戒伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 52,
+    "detail": "提高转移冷却恢复速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 53,
+    "detail": "每个骷髅法师使你提高腐化伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 54,
+    "detail": "击败时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 55,
+    "detail": "使用饥渴灵魂击败时获得20能量护盾机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 56,
+    "detail": "提高血液剥离伤害%",
+    "subDetail": "提高血液飞溅伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 57,
+    "detail": "骷髅暴击率%",
+    "subDetail": "骷髅法师暴击率%"
+  },
+  {
+    "main": 1,
+    "sub": 58,
+    "detail": "骷髅伤害反射%",
+    "subDetail": "骷髅法师伤害反射%"
+  },
+  {
+    "main": 1,
+    "sub": 59,
+    "detail": "召唤幽灵改为召唤腐烂幽灵机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 60,
+    "detail": "召唤幽灵改为召唤火焰幽灵机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 61,
+    "detail": "使用转移时释放刺骨机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 62,
+    "detail": "腐朽光环激活时提高毒素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 63,
+    "detail": "物理伤害%",
+    "subDetail": "召唤物物理伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 64,
+    "detail": "闪电伤害%",
+    "subDetail": "召唤物闪电伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 65,
+    "detail": "冰霜伤害%",
+    "subDetail": "召唤物冰霜伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 66,
+    "detail": "火焰伤害%",
+    "subDetail": "召唤物火焰伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 67,
+    "detail": "虚空伤害%",
+    "subDetail": "召唤物虚空伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 68,
+    "detail": "腐化伤害%",
+    "subDetail": "召唤物腐化伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 69,
+    "detail": "毒素伤害%",
+    "subDetail": "召唤物毒素伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 70,
+    "detail": "近战虚空伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 71,
+    "detail": "近战击中施加火花充能机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 72,
+    "detail": "消耗的魔力转化为能量护盾%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 73,
+    "detail": "魔力再生%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 74,
+    "detail": "图腾伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 75,
+    "detail": "魔力%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 76,
+    "detail": "护甲",
+    "subDetail": "召唤物护甲"
+  },
+  {
+    "main": 1,
+    "sub": 77,
+    "detail": "增加闪电伤害%",
+    "subDetail": "召唤物闪电伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 78,
+    "detail": "图腾自适应法术伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 79,
+    "detail": "变形期间提高冷却恢复速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 80,
+    "detail": "召唤物暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 81,
+    "detail": "增加召唤物法术暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 82,
+    "detail": "变形期间暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 83,
+    "detail": "提高冻伤效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 84,
+    "detail": "增加冰霜伤害%",
+    "subDetail": "增加召唤物冰霜伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 85,
+    "detail": "每层冰缓提高的冰冻机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 86,
+    "detail": "增加图腾施法速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 87,
+    "detail": "提高流血持续时间%",
+    "subDetail": "提高召唤物流血持续时间%"
+  },
+  {
+    "main": 1,
+    "sub": 88,
+    "detail": "增加法术伤害%",
+    "subDetail": "增加召唤物法术伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 89,
+    "detail": "增加近战伤害%",
+    "subDetail": "增加召唤物近战伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 90,
+    "detail": "召唤物近战伤害偷取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 91,
+    "detail": "召唤物流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 92,
+    "detail": "增加召唤物近战暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 93,
+    "detail": "增加变形期间的近战伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 94,
+    "detail": "增加变形期间的法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 95,
+    "detail": "增加变形期间的持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 96,
+    "detail": "增加图腾暴击机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 97,
+    "detail": "提高鲨鱼之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 98,
+    "detail": "提高野猪之势持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 99,
+    "detail": "提高毒蛇之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 100,
+    "detail": "提高猞猁之势效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 101,
+    "detail": "增加图腾伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 102,
+    "detail": "提高流血效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 103,
+    "detail": "持剑时近战物理伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 104,
+    "detail": "增加物理伤害%",
+    "subDetail": "提高流血持续时间%"
+  },
+  {
+    "main": 1,
+    "sub": 105,
+    "detail": "提高火焰伤害%",
+    "subDetail": "提高点燃持续时间%"
+  },
+  {
+    "main": 1,
+    "sub": 106,
+    "detail": "增加虚空伤害%",
+    "subDetail": "法术虚空伤害"
+  },
+  {
+    "main": 1,
+    "sub": 107,
+    "detail": "持斧时流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 108,
+    "detail": "持钝器时近战物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 109,
+    "detail": "承受的虚空伤害视为物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 110,
+    "detail": "承受的腐化伤害视为物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 111,
+    "detail": "承受的毒素伤害视为物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 112,
+    "detail": "增加投掷攻击暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 113,
+    "detail": "减少引导消耗%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 114,
+    "detail": "提高护甲粉碎效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 115,
+    "detail": "增加火焰持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 116,
+    "detail": "增加虚空持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 117,
+    "detail": "技能回响时提高回响伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 118,
+    "detail": "提高深渊腐烂持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 119,
+    "detail": "当你用复仇攻击至少1名敌人恢复法力",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 120,
+    "detail": "当你用Rive攻击至少1名敌人恢复法力",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 121,
+    "detail": "攻击获得法力",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 122,
+    "detail": "提高飞锤投掷伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 123,
+    "detail": "提高盾牌投掷暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 124,
+    "detail": "提高熔炉之怒伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 125,
+    "detail": "提高法术暴击%（魔力超300）",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 126,
+    "detail": "每秒获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 127,
+    "detail": "获得自适应法术伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 128,
+    "detail": "召唤物冻结机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 129,
+    "detail": "闪电暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 130,
+    "detail": "法术伤害吸取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 131,
+    "detail": "冰霜技能施加冻伤机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 132,
+    "detail": "增加冰霜持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 133,
+    "detail": "增加火焰持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 134,
+    "detail": "增加近战元素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 135,
+    "detail": "火焰技能点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 136,
+    "detail": "闪电技能感电机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 137,
+    "detail": "暴击释放火焰光缆机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 138,
+    "detail": "提高火焰光环伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 139,
+    "detail": "被击中时获得闪电之盾机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 140,
+    "detail": "击中释放火焰光环机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 141,
+    "detail": "释放火焰护盾时获得能力护盾",
+    "subDetail": "火焰护盾充能"
+  },
+  {
+    "main": 1,
+    "sub": 142,
+    "detail": "使用火焰技能释放火焰光环机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 143,
+    "detail": "近战击中施加火花充能机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 144,
+    "detail": "消耗魔力转化为能量护盾%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 145,
+    "detail": "增加变形期间的物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 146,
+    "detail": "增加变形期间的腐化伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 147,
+    "detail": "增加火焰伤害%",
+    "subDetail": "增加召唤物火焰伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 148,
+    "detail": "虚空持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 149,
+    "detail": "增加腐化伤害%",
+    "subDetail": "增加召唤物腐化伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 150,
+    "detail": "击中流血机率%",
+    "subDetail": "召唤物流血机率%"
+  },
+  {
+    "main": 1,
+    "sub": 151,
+    "detail": "提高流血持续时间%",
+    "subDetail": "提高召唤物流血持续时间%"
+  },
+  {
+    "main": 1,
+    "sub": 152,
+    "detail": "提高流血效果%",
+    "subDetail": "提高召唤物流血效果%"
+  },
+  {
+    "main": 1,
+    "sub": 153,
+    "detail": "物理伤害偷取生命%",
+    "subDetail": "召唤物物理伤害偷取生命%"
+  },
+  {
+    "main": 1,
+    "sub": 154,
+    "detail": "提高骷髅法师伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 155,
+    "detail": "使用收割时获得魔力",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 156,
+    "detail": "收割造成伤害时偷取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 157,
+    "detail": "召唤物受到伤害反射到攻击者%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 158,
+    "detail": "增加毒素伤害%",
+    "subDetail": "毒素抗性%"
+  },
+  {
+    "main": 1,
+    "sub": 159,
+    "detail": "使用饥渴灵魂击败时获得能量护盾机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 160,
+    "detail": "增加暴击率%",
+    "subDetail": "增加召唤物暴击率%"
+  },
+  {
+    "main": 1,
+    "sub": 161,
+    "detail": "提高骨刺投射物速度%",
+    "subDetail": "提高白骨新星投射物速度%"
+  },
+  {
+    "main": 1,
+    "sub": 162,
+    "detail": "提高血液剥离伤害%",
+    "subDetail": "提高血液飞溅伤害%"
+  },
+  {
+    "main": 1,
+    "sub": 163,
+    "detail": "骷髅暴击率%",
+    "subDetail": "骷髅法师暴击率%"
+  },
+  {
+    "main": 1,
+    "sub": 164,
+    "detail": "每个骷髅法师是你提高法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 165,
+    "detail": "击中时施加咒蚀机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 166,
+    "detail": "变形期间的伤害偷取生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 167,
+    "detail": "降低法术的生命值消耗%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 168,
+    "detail": "增加物理法术暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 169,
+    "detail": "耐伤阈值",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 170,
+    "detail": "腐化抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 171,
+    "detail": "减少承受的暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 172,
+    "detail": "近战击中施加虚弱机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 173,
+    "detail": "击中时施加虚弱机率",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 174,
+    "detail": "物理抗性%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 175,
+    "detail": "增加弓伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 176,
+    "detail": "增加弓攻击速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 177,
+    "detail": "弓物理伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 178,
+    "detail": "弓火焰伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 179,
+    "detail": "使用转移时释放骨刺机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 180,
+    "detail": "制造影子时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 181,
+    "detail": "制造影子时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 182,
+    "detail": "提高影子攻击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 183,
+    "detail": "提高影子使用技能伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 184,
+    "detail": "伤害偏斜时获得生命",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 185,
+    "detail": "躲避值若近期被击中",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 186,
+    "detail": "躲避值若近期被击中",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 187,
+    "detail": "记者内涵击中获得猩红遮蔽机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 188,
+    "detail": "使用弓攻击时3秒内提高弓攻击速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 189,
+    "detail": "每装备一把剑提高暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 190,
+    "detail": "每装备一把剑提高暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 191,
+    "detail": "每装备一把匕首提高暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 192,
+    "detail": "每装备一把匕首提高暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 193,
+    "detail": "被击中时获得暮色遮蔽机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 194,
+    "detail": "每装备一把剑增加造成流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 195,
+    "detail": "每装备一把剑增加流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 196,
+    "detail": "每装备一把匕首增加中毒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 197,
+    "detail": "每装备一把匕首增加造成中毒机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 198,
+    "detail": "近战击中获得暮色遮蔽机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 199,
+    "detail": "双持时的暴击伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 200,
+    "detail": "躲避时获得生命",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 201,
+    "detail": "双持时增加物理投掷伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 202,
+    "detail": "持剑时提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 203,
+    "detail": "持剑是提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 204,
+    "detail": "持匕首时提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 205,
+    "detail": "持匕首时提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 206,
+    "detail": "持弓时提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 207,
+    "detail": "持弓时提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 208,
+    "detail": "持匕首时物理穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 209,
+    "detail": "持匕首时火焰穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 210,
+    "detail": "增加物理持续伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 211,
+    "detail": "提高点燃效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 212,
+    "detail": "提高点燃效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 213,
+    "detail": "提高中毒持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 214,
+    "detail": "增加投掷物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 215,
+    "detail": "增加投掷物理伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 216,
+    "detail": "投掷攻击命中粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 217,
+    "detail": "投掷攻击命中粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 218,
+    "detail": "近战击中粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 219,
+    "detail": "近战击中粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 220,
+    "detail": "弓击中时粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 221,
+    "detail": "弓击中时粉碎护甲机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 222,
+    "detail": "提高护甲粉碎效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 223,
+    "detail": "提高护甲粉碎效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 224,
+    "detail": "提高护甲粉碎持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 225,
+    "detail": "提高护甲粉碎持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 226,
+    "detail": "弓击中点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 227,
+    "detail": "弓击中点燃机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 228,
+    "detail": "弓击中机率缓速%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 229,
+    "detail": "弓击中机率缓速%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 230,
+    "detail": "提高暗影匕首的效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 231,
+    "detail": "提高暗影匕首的效果%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 232,
+    "detail": "增加弓元素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 233,
+    "detail": "增加弓元素伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 234,
+    "detail": "增加投掷伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 235,
+    "detail": "增加弓伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 236,
+    "detail": "增加弓暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 237,
+    "detail": "弓击中流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 238,
+    "detail": "弓击中流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 239,
+    "detail": "提高灰烬打击第一击范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 240,
+    "detail": "提高灰烬打击第一击范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 241,
+    "detail": "提高乱舞暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 242,
+    "detail": "提高乱舞暴击率%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 243,
+    "detail": "提高穿刺物理穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 244,
+    "detail": "提高穿刺物理穿透%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 245,
+    "detail": "力量",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 246,
+    "detail": "智力",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 247,
+    "detail": "敏捷",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 248,
+    "detail": "协调",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 249,
+    "detail": "活力",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 250,
+    "detail": "增加法术伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 251,
+    "detail": "投掷物理伤害",
+    "subDetail": "投掷攻击魔力消耗"
+  },
+  {
+    "main": 1,
+    "sub": 252,
+    "detail": "扩大爆炸箭范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 253,
+    "detail": "扩大爆炸箭范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 254,
+    "detail": "多重射击每有一支箭矢提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 1,
+    "sub": 255,
+    "detail": "多重射击每有一支箭矢提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 0,
+    "detail": "提高箭雨持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 1,
+    "detail": "提高箭雨持续时间%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 2,
+    "detail": "使用暗影圆舞斩时每有1个活动的影子提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 3,
+    "detail": "使用暗影圆舞斩时每有1个活动的影子提高伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 4,
+    "detail": "手里剑流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 5,
+    "detail": "手里剑流血机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 6,
+    "detail": "手里剑增加闪电伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 7,
+    "detail": "手里剑增加闪电伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 8,
+    "detail": "扩大硫酸瓶范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 9,
+    "detail": "扩大硫酸瓶范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 10,
+    "detail": "使用硫酸瓶时召唤密封机率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 11,
+    "detail": "提高影舞打击范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 12,
+    "detail": "提高影舞打击范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 13,
+    "detail": "同步打击的魔力效率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 14,
+    "detail": "同步打击的魔力效率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 15,
+    "detail": "诱饵的魔力效率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 16,
+    "detail": "诱饵的魔力效率%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 17,
+    "detail": "使用烟雾弹时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 18,
+    "detail": "使用烟雾弹时获得能量护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 19,
+    "detail": "使用瞬影时获得护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 20,
+    "detail": "使用瞬影时获得护盾",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 21,
+    "detail": "黑暗箭袋掉落的黑暗箭矢数量增加5%弓伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 22,
+    "detail": "黑暗箭袋掉落的黑暗箭矢数量增加5%弓伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 23,
+    "detail": "弩炮的弓物理伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 24,
+    "detail": "最大弩炮数量",
+    "subDetail": "提高弩炮攻击速度%"
+  },
+  {
+    "main": 2,
+    "sub": 25,
+    "detail": "致命幻影制造的幻影数量",
+    "subDetail": "致命幻影的魔力效率%"
+  },
+  {
+    "main": 2,
+    "sub": 26,
+    "detail": "使用致命幻影提高幻影攻击范围%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 27,
+    "detail": "横扫技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 28,
+    "detail": "召唤狼技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 29,
+    "detail": "龙卷风技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 30,
+    "detail": "跃击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 31,
+    "detail": "召唤荆棘图腾等级增加",
+    "subDetail": "增加图腾伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 32,
+    "detail": "召唤树人等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 33,
+    "detail": "召唤狂暴图腾等级增加",
+    "subDetail": "增加召唤物生命%"
+  },
+  {
+    "main": 2,
+    "sub": 34,
+    "detail": "元素新星等级增加",
+    "subDetail": "增加元素伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 35,
+    "detail": "魔力打击等级增加",
+    "subDetail": "增加闪电伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 36,
+    "detail": "火球穿透机率%",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 37,
+    "detail": "火球术技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 38,
+    "detail": "冰川技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 39,
+    "detail": "陨石技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 40,
+    "detail": "传送技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 41,
+    "detail": "熔岩球技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 42,
+    "detail": "黑洞技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 43,
+    "detail": "召唤熊技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 44,
+    "detail": "静电球技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 45,
+    "detail": "闪电冲击技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 46,
+    "detail": "毒蛇打击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 47,
+    "detail": "根须缠绕技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 48,
+    "detail": "放逐技能等级增加",
+    "subDetail": "增加虚空伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 49,
+    "detail": "旋风斩技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 50,
+    "detail": "吞噬球技能等级增加",
+    "subDetail": "增加虚空伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 51,
+    "detail": "撕裂技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 52,
+    "detail": "飞锤投掷技能等级增加",
+    "subDetail": "增加投掷伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 53,
+    "detail": "盾冲技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 54,
+    "detail": "时间回溯技能等级增加",
+    "subDetail": "增加虚空伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 55,
+    "detail": "深渊回响技能等级增加",
+    "subDetail": "增加虚空伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 56,
+    "detail": "抹消打击技能等级增加",
+    "subDetail": "增加虚空伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 57,
+    "detail": "复仇技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 58,
+    "detail": "盾牌投掷技能等级增加",
+    "subDetail": "增加投掷伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 59,
+    "detail": "恐惧幽影技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 60,
+    "detail": "召唤骷髅技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 61,
+    "detail": "地狱幽影技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 62,
+    "detail": "牺牲技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 63,
+    "detail": "专注技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 64,
+    "detail": "腐朽光环技能等级增加",
+    "subDetail": "毒素抗性%"
+  },
+  {
+    "main": 2,
+    "sub": 65,
+    "detail": "饥渴灵魂技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 66,
+    "detail": "血液剥离技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 67,
+    "detail": "召唤幽灵技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 68,
+    "detail": "召唤白骨魔像技能等级增加",
+    "subDetail": "增加召唤物护甲"
+  },
+  {
+    "main": 2,
+    "sub": 69,
+    "detail": "漫游灵体技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 70,
+    "detail": "骨刺技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 71,
+    "detail": "转移技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 72,
+    "detail": "烈焰掠夺技能等级增加",
+    "subDetail": "增加火焰伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 73,
+    "detail": "召唤风暴图腾技能等级增加",
+    "subDetail": "增加图腾伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 74,
+    "detail": "灵魂盛宴技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 75,
+    "detail": "急冻技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 76,
+    "detail": "冲锋技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 77,
+    "detail": "斥责技能等级增加",
+    "subDetail": "增加护甲%"
+  },
+  {
+    "main": 2,
+    "sub": 78,
+    "detail": "召唤剑齿虎技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 79,
+    "detail": "召唤毒蝎技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 80,
+    "detail": "盾环技能等级增加",
+    "subDetail": "增加召唤物生命%"
+  },
+  {
+    "main": 2,
+    "sub": 81,
+    "detail": "火焰烙印技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 82,
+    "detail": "收割技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 83,
+    "detail": "Eterra的祝福技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 84,
+    "detail": "审判技能等级增加",
+    "subDetail": "提高治疗效果%"
+  },
+  {
+    "main": 2,
+    "sub": 85,
+    "detail": "粉碎打击技能等级增加",
+    "subDetail": "增加冰霜伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 86,
+    "detail": "附魔武器技能等级增加",
+    "subDetail": "增加近战元素伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 87,
+    "detail": "雪崩技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 88,
+    "detail": "希望印记技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 89,
+    "detail": "神圣光环技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 90,
+    "detail": "熊人形态技能等级增加",
+    "subDetail": "增加变形期间伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 91,
+    "detail": "惩戒技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 92,
+    "detail": "显化盔甲技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 93,
+    "detail": "锻造打击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 94,
+    "detail": "树人形态技能等级增加",
+    "subDetail": "增加变形期间伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 95,
+    "detail": "死神形态技能等级增加",
+    "subDetail": "增加生命"
+  },
+  {
+    "main": 2,
+    "sub": 96,
+    "detail": "硫酸瓶技能等级增加",
+    "subDetail": "增加投掷攻击速度%"
+  },
+  {
+    "main": 2,
+    "sub": 97,
+    "detail": "暗影圆舞斩技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 98,
+    "detail": "乱舞技能等级增加",
+    "subDetail": "增加躲避值"
+  },
+  {
+    "main": 2,
+    "sub": 99,
+    "detail": "手里剑技能等级增加",
+    "subDetail": "增加投掷伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 100,
+    "detail": "影舞打击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 101,
+    "detail": "多重射击技能等级增加",
+    "subDetail": "增加弓伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 102,
+    "detail": "穿刺技能等级增加",
+    "subDetail": "增加物理伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 103,
+    "detail": "诱饵技能等级增加",
+    "subDetail": "增加投掷伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 104,
+    "detail": "灰烬打击技能等级增加",
+    "subDetail": "增加火焰伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 105,
+    "detail": "爆炸箭技能等级增加",
+    "subDetail": "增加弓伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 106,
+    "detail": "箭雨技能等级增加",
+    "subDetail": "增加弓伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 107,
+    "detail": "瞬影技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 108,
+    "detail": "同步打击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 109,
+    "detail": "风暴打击技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 110,
+    "detail": "冰刺技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 111,
+    "detail": "召唤骷髅法师技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 112,
+    "detail": "静电技能等级增加",
+    "subDetail": "增加闪电伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 113,
+    "detail": "瓦解射线技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 114,
+    "detail": "漩涡技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 115,
+    "detail": "召唤迅猛龙技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 116,
+    "detail": "火焰护盾技能等级增加",
+    "subDetail": "能量护盾维持%"
+  },
+  {
+    "main": 2,
+    "sub": 117,
+    "detail": "地震技能等级增加",
+    "subDetail": "提高晕眩持续时间%"
+  },
+  {
+    "main": 2,
+    "sub": 118,
+    "detail": "奥术升华技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 119,
+    "detail": "熔炉之怒技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 120,
+    "detail": "吸取生命技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 121,
+    "detail": "缝合憎恶技能等级增加",
+    "subDetail": "增加召唤生物生命%"
+  },
+  {
+    "main": 2,
+    "sub": 122,
+    "detail": "精神瘟疫技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 123,
+    "detail": "白骨诅咒技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 124,
+    "detail": "死亡封印技能等级增加",
+    "subDetail": "增加法术伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 125,
+    "detail": "寒冰弹幕技能等级增加",
+    "subDetail": "冻结率加成%"
+  },
+  {
+    "main": 2,
+    "sub": 126,
+    "detail": "黑暗箭袋技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 127,
+    "detail": "盾击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 128,
+    "detail": "召唤弩炮技能等级增加",
+    "subDetail": "提高弩炮攻击速度%"
+  },
+  {
+    "main": 2,
+    "sub": 129,
+    "detail": "致命幻影技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 130,
+    "detail": "烟雾弹技能等级增加",
+    "subDetail": "增加魔力"
+  },
+  {
+    "main": 2,
+    "sub": 131,
+    "detail": "震地战后技能等级增加",
+    "subDetail": "耐伤阈值"
+  },
+  {
+    "main": 2,
+    "sub": 132,
+    "detail": "召唤物近战伤害%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 133,
+    "detail": "浪涌技能等级增加",
+    "subDetail": "增加近战元素伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 134,
+    "detail": "召唤风暴乌鸦技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 135,
+    "detail": "召唤自爆僵尸技能等级增加",
+    "subDetail": "增加召唤物伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 136,
+    "detail": "增加风暴乌鸦的自适应法术伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 137,
+    "detail": "提高自爆僵尸引动速度%",
+    "subDetail": "提高自爆僵尸伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 138,
+    "detail": "提高自爆僵尸伤害%",
+    "subDetail": "提高自爆僵尸爆炸范围%"
+  },
+  {
+    "main": 2,
+    "sub": 139,
+    "detail": "提高浪涌冷却恢复速度%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 140,
+    "detail": "多重打击技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 141,
+    "detail": "虚空裂缝（Void Cleave）技能等级增加",
+    "subDetail": "增加近战伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 142,
+    "detail": "标枪（Javelin）技能等级增加",
+    "subDetail": "增加投掷伤害%"
+  },
+  {
+    "main": 2,
+    "sub": 143,
+    "detail": "增加闪电投掷伤害",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 144,
+    "detail": "引导时增加耐伤%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 145,
+    "detail": "增加静态球体卷须（Static orb tendrils）",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 146,
+    "detail": "引导时增加生命%",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 147,
+    "detail": "机率获得额外多重打击剑（Multistrike swords）",
+    "subDetail": ""
+  },
+  {
+    "main": 2,
+    "sub": 150,
+    "detail": "暗影之刃等级增加",
+    "subDetail": "增加投掷伤害%"
+  }
+]

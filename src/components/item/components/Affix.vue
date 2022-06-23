@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-
+import AffixList from '../../../../affix/data.json';
 import { useStore } from '@/utils/hooks';
-import { isAdvanceItem, hasT7Affix } from '@/utils/item';
+import { isLegendaryItem, hasT7Affix } from '@/utils/item';
 
 const store = useStore();
 const currentItem = computed(() => store.state.currentItem!);
@@ -21,8 +21,7 @@ const onChange = (index: number, value: number) => {
 }
 const onTierChange = (index: number, value: number) => {
   currentItem.value.data[startIndex + index * 3 + 1] = value;
-  if (!isAdvanceItem(currentItem.value)) {
-    console.log(hasT7Affix(startIndex, currentItem.value), 'hasT7Affix(startIndex, currentItem.value)')
+  if (!isLegendaryItem(currentItem.value)) {
     if (hasT7Affix(startIndex, currentItem.value)) {
       currentItem.value.data[3] = 4;
     } else {
@@ -30,6 +29,16 @@ const onTierChange = (index: number, value: number) => {
     }
   }
 }
+const getAffixKey = (affix: Affix_Item) => {
+  return `${affix.main}-${affix.sub}`;
+}
+
+const onAffixChange = (index: number, val: string, tier: number) => {
+  const vals = val.split('-').map(Number);
+  currentItem.value.data[startIndex + index * 3 + 1] = tier + vals[0];
+  currentItem.value.data[startIndex + index * 3 + 2] = vals[1];
+}
+
 </script>
 
 <template>
@@ -43,7 +52,21 @@ const onTierChange = (index: number, value: number) => {
           <a-select-option v-for="item in 7" :value="(item - 1) * 16">T{{ item }}</a-select-option>
         </a-select>
       </div>
-      <div class="affix-item"><span>词缀代码:</span> <span>{{ item[0] % 16 }}-{{ item[1] }}</span></div>
+      <!-- <div class="affix-item"><span>词缀代码:</span> <span>{{ item[0] % 16 }}-{{ item[1] }}</span></div> -->
+      <div class="affix-item">
+        <span>词缀:</span>
+        <a-select showSearch :value="`${item[0] % 16}-${item[1]}`" size="small" style="width:150px"
+          optionFilterProp="content"
+          @change="(val: string) => onAffixChange(index, val, Math.floor(item[0] / 16) * 16)">
+          <a-select-option v-for="affix in AffixList" :key="getAffixKey(affix)" :value="getAffixKey(affix)"
+            :content="`${affix.detail}${affix.subDetail}`">
+            <a-tooltip placement="left">
+              <template #title>{{ affix.detail }}</template> {{ affix.detail }}
+            </a-tooltip>
+            <div>{{ affix.subDetail }}</div>
+          </a-select-option>
+        </a-select>
+      </div>
       <div class="affix-item affix-roll"><span>词缀roll值:</span>
         <a-slider class="slider" :max="255" :min="0" :value="item[2]" @change="(val: number) => onChange(index, val)" />
       </div>
@@ -52,6 +75,10 @@ const onTierChange = (index: number, value: number) => {
 </template>
 
 <style scoped lang="less">
+.affix-level {
+  margin-top: 20px;
+}
+
 .wrapper-affix {
   padding: 0 10px;
   margin-top: 30px;
@@ -61,6 +88,7 @@ const onTierChange = (index: number, value: number) => {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 3px;
   }
 
   .affix-roll {
