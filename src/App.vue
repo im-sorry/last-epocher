@@ -6,8 +6,10 @@ import Backup from '@/components/Backup.vue';
 import Persons from '@/components/Persons.vue'
 import Items from '@/components/item/Items.vue'
 import ItemDetail from '@/components/item/ItemDetail.vue'
-import { computed, onErrorCaptured, ref } from 'vue';
+import { computed, onErrorCaptured, onMounted, ref } from 'vue';
 import { useStore } from '@/utils/hooks';
+import pkg from '../package.json';
+
 import 'ant-design-vue/lib/message/style/index.css';
 
 const store = useStore();
@@ -20,6 +22,10 @@ onErrorCaptured((err) => {
   hasError.value = true;
   errorMsg.value = err.message;
   document.body.style.setProperty('background-color', 'white');
+})
+onMounted(() => {
+  const versionDiv = document.getElementsByClassName('version-display')[0];
+  versionDiv.textContent = versionDiv.textContent?.replace('{__LER_VERSION__}', pkg.version) || '';
 })
 </script>
 
