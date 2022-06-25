@@ -33,7 +33,7 @@
 所有后续版本都会上传至百度网盘
 链接：https://pan.baidu.com/s/1wGoA0vUglMg1K4gLQDOZfQ 
 提取码：lepo
-
+B站教程视频：https://www.bilibili.com/video/BV1oB4y1s7pW/?vd_source=8dac90e7c37c4ae78b293afa7a862312
 -----1.0.0-----
 第一个版本重在提供装备属性修改
 1. 人物
