@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const pkg = require('./package.json');
 
-const sourceText = path.join(__dirname, './使用说明.txt');
-const targetText = path.join(__dirname, './dist/使用说明.txt');
+const sourceText = path.join(__dirname, './Readme.txt');
+const targetText = path.join(__dirname, './dist/Readme.txt');
 const htmlPath = path.join(__dirname, './dist/index.html');
 const htmlSource = fs.readFileSync(htmlPath, 'utf-8');
 const htmlLines = htmlSource.split('\n');

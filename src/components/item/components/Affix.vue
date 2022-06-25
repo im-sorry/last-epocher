@@ -6,7 +6,7 @@ import { isLegendaryItem, hasT7Affix } from '@/utils/item';
 
 const store = useStore();
 const currentItem = computed(() => store.state.currentItem!);
-const { startIndex } = defineProps<{ startIndex: number }>();
+const { startIndex, noTier = false } = defineProps<{ startIndex: number; noTier?: boolean }>();
 const affixNum = currentItem.value.data[startIndex] || 0;
 const affixs = computed(() => {
   const list = [];
@@ -20,6 +20,7 @@ const onChange = (index: number, value: number) => {
   currentItem.value.data[startIndex + index * 3 + 3] = value;
 }
 const onTierChange = (index: number, value: number) => {
+  if (noTier) return;
   currentItem.value.data[startIndex + index * 3 + 1] = value;
   if (!isLegendaryItem(currentItem.value)) {
     if (hasT7Affix(startIndex, currentItem.value)) {
@@ -35,7 +36,7 @@ const getAffixKey = (affix: Affix_Item) => {
 
 const onAffixChange = (index: number, val: string, tier: number) => {
   const vals = val.split('-').map(Number);
-  currentItem.value.data[startIndex + index * 3 + 1] = tier + vals[0];
+  currentItem.value.data[startIndex + index * 3 + 1] = noTier ? 0 : tier + vals[0];
   currentItem.value.data[startIndex + index * 3 + 2] = vals[1];
 }
 
@@ -45,7 +46,7 @@ const onAffixChange = (index: number, val: string, tier: number) => {
   <div class="wrapper-affix">
     <div class="attribute-title">词缀属性</div>
     <template v-for="(item, index) in affixs" :key="index">
-      <div class="affix-item affix-level">
+      <div class="affix-item affix-level" v-if="!noTier">
         <span>词缀等级:</span>
         <a-select :value="Math.floor(item[0] / 16) * 16" size="small"
           @change="(val: number) => onTierChange(index, val + item[0] % 16)">

@@ -38,7 +38,7 @@ const onMasteryChange = (value: number) => {
         </a-select>
       </div>
     </div>
-    <AffixVue :start-index="8" />
+    <AffixVue :start-index="8" :no-tier="true" />
   </div>
 </template>
 
