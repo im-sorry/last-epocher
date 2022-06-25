@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { useStore } from '@/utils/hooks';
 import { isGreenDress } from '@/utils/item';
+import SliderVue from '@/components/BaseComponents/Slider.vue';
 
 const index = 17;
 const store = useStore();
@@ -16,7 +17,7 @@ const onChange = (value: number) => {
 <template>
   <div class="wrapper-base-roll" v-if="!isGreenDress(currentItem)">
     <div class="attribute-title">传奇潜能值</div>
-    <a-slider :max="4" :min="0" :value="potentialValue" @change="onChange" />
+    <SliderVue :max="4" :min="0" :value="potentialValue" :onChange="onChange" />
   </div>
 </template>
 

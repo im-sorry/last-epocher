@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import AffixList from '../../../../affix/data.json';
 import { useStore } from '@/utils/hooks';
 import { isLegendaryItem, hasT7Affix } from '@/utils/item';
+import SliderVue from '@/components/BaseComponents/Slider.vue';
 
 const store = useStore();
 const currentItem = computed(() => store.state.currentItem!);
@@ -62,7 +63,7 @@ const toTopAffixTier = () => {
 </script>
 
 <template>
-  <div class="wrapper-affix">
+  <div class="wrapper-affix" v-if="Boolean(affixNum)">
     <div class="attribute-title flex-between"> 词缀属性 <a-popover placement="left">
         <template #content>
           <div>
@@ -97,7 +98,8 @@ const toTopAffixTier = () => {
         </a-select>
       </div>
       <div class="affix-item affix-roll"><span>词缀roll值:</span>
-        <a-slider class="slider" :max="255" :min="0" :value="item[2]" @change="(val: number) => onChange(index, val)" />
+        <SliderVue class="slider" :max="255" :min="0" :value="item[2]"
+          :onChange="(val: number) => onChange(index, val)" />
       </div>
     </template>
   </div>

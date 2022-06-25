@@ -40,7 +40,7 @@ const onApply = () => {
   height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  padding-right: 6px;
+  padding-right: 13px;
 
   .none-span {
     height: 20px;

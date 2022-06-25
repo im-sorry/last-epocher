@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useStore } from '@/utils/hooks';
+import SliderVue from '@/components/BaseComponents/Slider.vue';
 
 const index = 7;
 const store = useStore();
@@ -15,7 +16,7 @@ const onChange = (value: number) => {
 <template>
   <div class="wrapper-base-roll">
     <div class="attribute-title">锻造潜能</div>
-    <a-slider :max="255" :min="0" :value="potentialValue" @change="onChange" />
+    <SliderVue :max="255" :min="0" :value="potentialValue" :onChange="onChange" />
   </div>
 </template>
 

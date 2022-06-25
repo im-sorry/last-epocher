@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useStore } from '@/utils/hooks';
+import SliderVue from '@/components/BaseComponents/Slider.vue';
 
 const startIndex = 8;
 const store = useStore();
@@ -19,8 +20,8 @@ const toTop = () => {
   <div class="wrapper-base-roll">
     <div class="attribute-title flex-between">装备属性roll值<a-button size="small" @click="toTop">全部拉满</a-button>
     </div>
-    <a-slider v-for="item in 8" :max="255" :min="0" :value="currentItem.data[item + startIndex]"
-      @change="(val: number) => onChange(item, val)" />
+    <SliderVue v-for="item in 8" :max="255" :min="0" :value="currentItem.data[item + startIndex]"
+      :onChange="(val: number) => onChange(item, val)" />
   </div>
 </template>
 
