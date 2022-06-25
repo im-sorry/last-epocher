@@ -14,7 +14,8 @@ const {
 </script>
 
 <template>
-  <div class="title" :style="{ color }" :key="quality">{{ quality ? `(${quality})` : '' }}{{ name }}</div>
+  <div class="title" :style="{ color }" :key="`${JSON.stringify(currentItem?.data)}`">{{ quality ? `(${quality})` : ''
+  }}{{ name }}</div>
 </template>
 
 <style scoped>

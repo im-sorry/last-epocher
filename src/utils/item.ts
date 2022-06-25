@@ -31,6 +31,11 @@ export const isRune = (item: Item) => {
   return type === RUNE_TYPE;
 };
 
+export const isNormalItem = (item: Item) => {
+  const type = item.data[3];
+  return type <= 4 && type >= 0;
+};
+
 const getItemQuality = (item: Item): ITEM_QUALITY_DETAIL => {
   if (isStatue(item)) {
     return ITEM_QUALITY[2];
@@ -46,6 +51,17 @@ const getItemQuality = (item: Item): ITEM_QUALITY_DETAIL => {
       color: ITEM_QUALITY[3].color,
       quality: '',
     };
+  }
+  if (isNormalItem(item)) {
+    if (hasT7Affix(8, item)) {
+      return ITEM_QUALITY[4];
+    } else if (item.data[8] >= 3) {
+      return ITEM_QUALITY[3];
+    } else if (item.data[8] >= 1) {
+      return ITEM_QUALITY[2];
+    } else if (item.data[8] === 0) {
+      return ITEM_QUALITY[0];
+    }
   }
   return (
     ITEM_QUALITY[item.data[3]] || {

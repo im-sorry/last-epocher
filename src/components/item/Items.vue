@@ -39,7 +39,7 @@ onMounted(() => {
       <div v-if="showGrid" :style="{ width: `${bagWidth}px`, height: `${bagHeight}px` }">
         <ItemGrid :has-item="hasBagItem">
           <template v-if="hasBagItem">
-            <ItemShower v-for="(item, index) in bagItems" :key="`${item.data[3]}-${index}`" :item="item" />
+            <ItemShower v-for="(item, index) in bagItems" :key="`${JSON.stringify(item.data)}`" :item="item" />
           </template>
         </ItemGrid>
       </div>

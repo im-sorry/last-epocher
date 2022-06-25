@@ -13,7 +13,7 @@ import { message } from 'ant-design-vue';
 const store = useStore();
 const currentItem = computed(() => store.state.currentItem);
 const getKey = (type: string) => {
-  return currentItem.value ? `${type}-${currentItem.value.inventoryPosition.x}-${currentItem.value.inventoryPosition.y}-${currentItem.value.data[3] || ''}` : '0'
+  return currentItem.value ? `${type}-${JSON.stringify(currentItem.value.data)}-${JSON.stringify(currentItem.value.inventoryPosition)}` : '0'
 }
 const onApply = () => {
   store.commit('updateItem', unref(currentItem));

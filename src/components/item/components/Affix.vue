@@ -39,16 +39,39 @@ const onAffixChange = (index: number, val: string, tier: number) => {
   currentItem.value.data[startIndex + index * 3 + 1] = noTier ? 0 : tier + vals[0];
   currentItem.value.data[startIndex + index * 3 + 2] = vals[1];
 }
-const toTopAffix = () => {
+const toTopAffixRool = () => {
   for (let index = 0; index < affixNum; index++) {
     currentItem.value.data[startIndex + index * 3 + 3] = 255;
+  }
+}
+const toTopAffixTier = () => {
+  if (noTier) return;
+  for (let index = 0; index < affixNum; index++) {
+    const affixIndex = startIndex + index * 3 + 1;
+    const affixBaseCode = currentItem.value.data[affixIndex] % 16;
+    currentItem.value.data[affixIndex] = affixBaseCode + 96;
+  }
+  if (!isLegendaryItem(currentItem.value)) {
+    if (hasT7Affix(startIndex, currentItem.value)) {
+      currentItem.value.data[3] = 4;
+    } else {
+      currentItem.value.data[3] = affixNum <= 2 ? 2 : 3;
+    }
   }
 }
 </script>
 
 <template>
   <div class="wrapper-affix">
-    <div class="attribute-title flex-between"> 词缀属性 <a-button size="small" @click="toTopAffix">全部拉满词缀roll</a-button>
+    <div class="attribute-title flex-between"> 词缀属性 <a-popover placement="left">
+        <template #content>
+          <div>
+            <a-button @click="toTopAffixRool" type="primary">拉满所有词缀roll值</a-button>
+          </div>
+          <a-button style="margin-top:20px" @click="toTopAffixTier" v-if="!noTier" type="primary">修改所有词缀到T7</a-button>
+        </template>
+        <a-button type="link">快捷操作</a-button>
+      </a-popover>
     </div>
     <template v-for="(item, index) in affixs" :key="index">
       <div class="affix-item affix-level" v-if="!noTier">
