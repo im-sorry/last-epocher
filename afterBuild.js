@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const pkg = require('./package.json');
+const cp = require('child_process');
 
 const sourceText = path.join(__dirname, './Readme.txt');
 const targetText = path.join(__dirname, './dist/Readme.txt');
@@ -20,3 +21,5 @@ let html = htmlLines
 html = html.replace('{__LER_VERSION__}', pkg.version);
 fs.writeFileSync(htmlPath, html);
 fs.copyFileSync(sourceText, targetText);
+
+cp.execSync(`zip -r ${pkg.version}.zip ./dist`);
