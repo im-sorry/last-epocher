@@ -8,12 +8,18 @@ const currentItem = computed(() => store.state.currentItem!);
 const onChange = (index: number, value: number) => {
   currentItem.value.data[index] = value;
 };
+const toTop = () => {
+  for (let idx of [4, 5, 6]) {
+    currentItem.value.data[idx] = 255;
+  }
+}
 
 </script>
 
 <template>
   <div class="wrapper-base-roll">
-    <div class="attribute-title">基底roll值</div>
+    <div class="attribute-title flex-between"> 基底roll值 <a-button size="small" @click="toTop">全部拉满</a-button>
+    </div>
     <a-slider :max="255" :min="0" :value="currentItem.data[4]" @change="(val: number) => onChange(4, val)" />
     <a-slider :max="255" :min="0" :value="currentItem.data[5]" @change="(val: number) => onChange(5, val)" />
     <a-slider :max="255" :min="0" :value="currentItem.data[6]" @change="(val: number) => onChange(6, val)" />

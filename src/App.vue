@@ -83,6 +83,12 @@ body {
   align-items: center;
 }
 
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .abs-center {
   position: absolute;
   top: 0;

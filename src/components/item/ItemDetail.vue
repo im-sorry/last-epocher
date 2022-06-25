@@ -39,6 +39,7 @@ const onApply = () => {
   position: relative;
   height: 100%;
   overflow-y: auto;
+  overflow-x: hidden;
   padding-right: 6px;
 
   .none-span {
@@ -47,6 +48,7 @@ const onApply = () => {
 
   .submit {
     margin-top: 50px;
+    margin-bottom: 50px;
   }
 }
 </style>

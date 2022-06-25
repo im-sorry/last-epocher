@@ -99,7 +99,8 @@ export const getItemDetail = (item: Item): ITEM_DETAIL => {
 export const isSameItemInBag = (item1: Item, item2: Item) => {
   return (
     item1.inventoryPosition.x === item2.inventoryPosition.x &&
-    item1.inventoryPosition.y === item2.inventoryPosition.y
+    item1.inventoryPosition.y === item2.inventoryPosition.y &&
+    item1.containerID === item2.containerID
   );
 };
 

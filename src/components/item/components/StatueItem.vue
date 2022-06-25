@@ -4,6 +4,7 @@ import Title from './Title.vue';
 import AffixVue from './Affix.vue';
 import { CHARACTER_MAP, MASTERY_MAP } from '@/constants/character';
 import { useStore } from '@/utils/hooks';
+import { InfoCircleOutlined } from '@ant-design/icons-vue'
 
 const CHARACTER_LIST = Object.entries(CHARACTER_MAP)
 const store = useStore();
@@ -26,7 +27,10 @@ const onMasteryChange = (value: number) => {
   <div class="wrapper-statue-item">
     <Title />
     <div class="character_select">
-      <div class="attribute-title">适用角色</div>
+      <div class="attribute-title">适用角色 <a-tooltip title="注意：不合适的角色和词缀搭配，有可能导致神像不可用。">
+          <InfoCircleOutlined style="color: yellow" />
+        </a-tooltip>
+      </div>
       <div class="selectors">
         <a-select class="selector" :value="character" @change="onCharacterChange">
           <a-select-option v-for="item in CHARACTER_LIST" :key="item[0]" :value="Number(item[0])">{{ item[1] }}

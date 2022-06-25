@@ -39,12 +39,17 @@ const onAffixChange = (index: number, val: string, tier: number) => {
   currentItem.value.data[startIndex + index * 3 + 1] = noTier ? 0 : tier + vals[0];
   currentItem.value.data[startIndex + index * 3 + 2] = vals[1];
 }
-
+const toTopAffix = () => {
+  for (let index = 0; index < affixNum; index++) {
+    currentItem.value.data[startIndex + index * 3 + 3] = 255;
+  }
+}
 </script>
 
 <template>
   <div class="wrapper-affix">
-    <div class="attribute-title">词缀属性</div>
+    <div class="attribute-title flex-between"> 词缀属性 <a-button size="small" @click="toTopAffix">全部拉满词缀roll</a-button>
+    </div>
     <template v-for="(item, index) in affixs" :key="index">
       <div class="affix-item affix-level" v-if="!noTier">
         <span>词缀等级:</span>
@@ -76,8 +81,8 @@ const onAffixChange = (index: number, val: string, tier: number) => {
 </template>
 
 <style scoped lang="less">
-.affix-level {
-  margin-top: 20px;
+.attribute-title {
+  margin-bottom: 10px;
 }
 
 .wrapper-affix {

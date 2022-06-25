@@ -8,12 +8,17 @@ const currentItem = computed(() => store.state.currentItem!);
 const onChange = (index: number, value: number) => {
   currentItem.value.data[startIndex + index] = value;
 };
-
+const toTop = () => {
+  for (let idx = startIndex + 1; idx <= startIndex + 8; idx++) {
+    currentItem.value.data[idx] = 255;
+  }
+}
 </script>
 
 <template>
   <div class="wrapper-base-roll">
-    <div class="attribute-title">装备属性roll值</div>
+    <div class="attribute-title flex-between">装备属性roll值<a-button size="small" @click="toTop">全部拉满</a-button>
+    </div>
     <a-slider v-for="item in 8" :max="255" :min="0" :value="currentItem.data[item + startIndex]"
       @change="(val: number) => onChange(item, val)" />
   </div>
