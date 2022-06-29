@@ -170,10 +170,10 @@ export const KEY_MAP = {
   0: '竞技场',
   1: '破碎钥匙',
   2: '轻语钥匙',
-  3: '记忆的竞技场钥匙',
+  3: '记忆竞技场',
   4: '时空圣殿',
   5: '无光之亭',
-  6: '灵魂之火堡垒钥匙',
+  6: '灵魂之火堡垒',
 };
 
 export const ITEM_QUALITY: Record<string, ITEM_QUALITY_DETAIL> = {

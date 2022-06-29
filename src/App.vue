@@ -89,6 +89,12 @@ body {
   align-items: center;
 }
 
+.flex-around {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .abs-center {
   position: absolute;
   top: 0;

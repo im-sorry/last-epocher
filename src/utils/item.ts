@@ -1,3 +1,4 @@
+import { BAG_HEIGHT, BAG_TYPE, BAG_WIDTH } from '@/constants/character';
 import {
   ITEM_BASE_MAP,
   ITEM_QUALITY,
@@ -100,7 +101,18 @@ const getItemBaseDetail = (item: Item): ITEM_BASE_DETAIL => {
   );
 };
 
-export const getItemDetail = (item: Item): ITEM_DETAIL => {
+export const getItemDetail = (item: Item | undefined): ITEM_DETAIL => {
+  if (!item) {
+    return {
+      quality: '',
+      x: 0,
+      y: 0,
+      name: '',
+      color: '',
+      w: 0,
+      h: 0,
+    };
+  }
   const {
     inventoryPosition: { x, y },
   } = item;
@@ -145,4 +157,114 @@ export const hasT7Affix = (start: number, item: Item) => {
     if (item.data[i] >= 80) return true;
   }
   return false;
+};
+
+/**
+ * 物品是否在身上穿戴
+ * @param item
+ */
+export const isItemInBody = (item: Item | null) => {
+  if (!item) return false;
+  if (item.containerID === BAG_TYPE.神像栏) return true;
+  if (item.containerID > BAG_TYPE.背包 && item.containerID <= BAG_TYPE.遗物)
+    return true;
+  return false;
+};
+
+/**
+ * 物品是否在背包里面
+ * @param item
+ */
+export const isItemInBag = (item: Item | null) => {
+  if (!item) return false;
+  if (item.containerID === BAG_TYPE.背包) return true;
+  return false;
+};
+
+/**
+ * 获得钥匙的模板
+ * @param type
+ * @param x
+ * @param y
+ * @returns
+ */
+export const getKeyTemplate = (type: number, x = 0, y = 0): Item => {
+  return {
+    itemData: '',
+    data: [1, KEY_TYPE, type],
+    inventoryPosition: {
+      x,
+      y,
+    },
+    quantity: 1,
+    containerID: 1,
+    formatVersion: 2,
+  };
+};
+
+/**
+ * 返回一个二维数组，标识背包里每一个格子是否被占用
+ * @param items
+ */
+export const getBagMatrix = (items: Item[]) => {
+  const matrix = Array(BAG_WIDTH)
+    .fill(0)
+    .map(() => Array(BAG_HEIGHT).fill(0));
+  items.forEach((item) => {
+    const { x, y, w, h } = getItemDetail(item);
+    for (let i = x; i < x + w; i++) {
+      for (let j = y; j < y + h; j++) {
+        matrix[i][j] = 1;
+      }
+    }
+  });
+  return matrix;
+};
+
+/**
+ * 从矩阵里找到一个格子放(w,h)的物品，可以返回x,y坐标，否则返回null
+ * @param matrix
+ * @param w
+ * @param h
+ */
+export const findItemPosition = (
+  matrix: number[][],
+  w: number,
+  h: number
+): { x: number; y: number } | null => {
+  for (let i = 0; i < BAG_WIDTH; i++) {
+    for (let j = 0; j < BAG_HEIGHT; j++) {
+      if (matrix[i][j]) continue;
+      if (canItemAtPosition(matrix, i, j, w, h))
+        return {
+          x: i,
+          y: j,
+        };
+    }
+  }
+  return null;
+};
+
+/**
+ * 一个物品是否可以放在指定的位置
+ * @param matrix
+ * @param x
+ * @param y
+ * @param w
+ * @param h
+ */
+export const canItemAtPosition = (
+  matrix: number[][],
+  x: number,
+  y: number,
+  w: number,
+  h: number
+) => {
+  for (let i = x; i < x + w; i++) {
+    for (let j = y; j < y + h; j++) {
+      if (i >= BAG_WIDTH || j >= BAG_HEIGHT) return false;
+      if (matrix[i][j]) return false;
+    }
+  }
+  return true;
 };

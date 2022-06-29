@@ -1,7 +1,8 @@
 import { createStore } from 'vuex';
-import { isSameItemInBag } from './utils/item';
+import { getBagMatrix, isSameItemInBag } from './utils/item';
 import tempPersons from './temp/persons.json';
 import { message } from 'ant-design-vue';
+import { BAG_TYPE } from './constants/character';
 
 export default createStore<Store>({
   state() {
@@ -11,9 +12,26 @@ export default createStore<Store>({
       currentPersonIndex: 0,
       currentItem: null,
       showApplyButton: false,
+      showItemDBModal: false,
     };
   },
+  getters: {
+    matrix(state) {
+      const bagItems = state.persons[
+        state.currentPersonIndex
+      ].savedItems.filter((item) => {
+        return item.containerID === BAG_TYPE.背包;
+      });
+      return getBagMatrix(bagItems);
+    },
+    person(state) {
+      return state.persons[state.currentPersonIndex];
+    },
+  },
   mutations: {
+    setShowItemDBModal(state, is: boolean) {
+      state.showItemDBModal = is;
+    },
     addPerson(state, persons: Person[]) {
       state.persons = [...state.persons, ...persons];
     },
@@ -24,10 +42,11 @@ export default createStore<Store>({
       state.currentPersonIndex = index;
       state.currentItem = null;
     },
-    setCurrentItem(state, item: Item) {
-      if (state.currentItem) {
+    setCurrentItem(state, item: Item | null) {
+      if (item && state.currentItem) {
         if (isSameItemInBag(item, state.currentItem)) return;
       }
+      state.showItemDBModal = false;
       state.currentItem = item;
     },
     setApplyButton(state, is) {

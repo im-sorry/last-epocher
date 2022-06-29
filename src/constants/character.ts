@@ -49,3 +49,4 @@ export enum BAG_TYPE {
 
 export const BAG_WIDTH = 14;
 export const BAG_HEIGHT = 8;
+export const STATUE_BAG_HEIGHT = 5;

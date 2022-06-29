@@ -55,7 +55,7 @@ const onSponsor = () => {
   </div>
   <a-menu :selectedKeys="[currentPersonIndex]" mode="inline" theme="dark" @click="onChangePerson">
     <a-menu-item :key="index" v-for="(p, index) in persons" style="height:60px;position: relative;">
-      <div class="character-name">{{ p.characterName }}</div> {{ masteryName(p) }} <a-tooltip>
+      <div class="character-name">{{ p.characterName }}</div> {{ masteryName(p) }}({{ p.level }}) <a-tooltip>
         <template #title>导出角色文件</template>
         <DownloadOutlined class="download-icon" @click="download(p)" />
       </a-tooltip>

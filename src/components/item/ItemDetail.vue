@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref, unref } from 'vue'
 import { useStore } from '@/utils/hooks';
-import { isLegendaryItem, isAdvanceItem, isKey, isStatue, isRune } from '@/utils/item';
+import { isLegendaryItem, isAdvanceItem, isKey, isStatue, isRune, isItemInBody } from '@/utils/item';
 import AdvancedItemVue from './components/AdvancedItem.vue';
 import KeyItemVue from './components/KeyItem.vue';
 import LegendaryItemVue from './components/LegendaryItem.vue';
@@ -9,9 +9,11 @@ import NormalItemVue from './components/NormalItem.vue';
 import StatueItemVue from './components/StatueItem.vue';
 import RuneItemVue from './components/RuneItem.vue';
 import { message } from 'ant-design-vue';
+import { InfoCircleOutlined } from '@ant-design/icons-vue';
 
 const store = useStore();
 const currentItem = computed(() => store.state.currentItem);
+const itemInBody = computed(() => isItemInBody(currentItem.value));
 const getKey = (type: string) => {
   return currentItem.value ? `${type}-${JSON.stringify(currentItem.value.data)}-${JSON.stringify(currentItem.value.inventoryPosition)}` : '0'
 }
@@ -30,7 +32,10 @@ const onApply = () => {
     <AdvancedItemVue v-else-if="isAdvanceItem(currentItem!)" :key="getKey('Advanced')" />
     <LegendaryItemVue v-else-if="isLegendaryItem(currentItem!)" :key="getKey('Legendary')" />
     <NormalItemVue v-else :key="getKey('Normal')" />
-    <a-button type="primary" class="submit" @click="onApply" v-if="Boolean(currentItem)">同步到仓库</a-button>
+    <a-tooltip title="注意：如果修改后的装备等级或职业与人物不符，则会被游戏强行拖到人物背包里(亲测)。建议适当修改" v-if="itemInBody">
+      <a-button danger type="primary" class="submit" @click="onApply" v-if="Boolean(currentItem)">同步到仓库 </a-button>
+    </a-tooltip>
+    <a-button v-else type="primary" class="submit" @click="onApply" v-if="Boolean(currentItem)">同步到仓库 </a-button>
   </div>
 </template>
 
@@ -40,7 +45,6 @@ const onApply = () => {
   height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  padding-right: 13px;
 
   .none-span {
     height: 20px;

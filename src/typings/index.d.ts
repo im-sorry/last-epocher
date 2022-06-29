@@ -7,12 +7,15 @@ declare enum Character {
 }
 
 declare interface Item {
+  itemData: '';
   inventoryPosition: {
     x: number;
     y: number;
   };
   containerID: number;
   data: number[];
+  quantity: 1;
+  formatVersion: number;
 }
 
 declare interface Person {
@@ -32,6 +35,7 @@ declare interface Store {
   currentItem: Item | null;
   showApplyButton: boolean;
   fileNames: string[];
+  showItemDBModal: boolean;
 }
 
 declare type QUALITY_NAME =

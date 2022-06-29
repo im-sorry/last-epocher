@@ -3,6 +3,1808 @@
     "characterName": "dixuedizhenxiong",
     "level": 100,
     "slot": 2,
+    "currentExp": 101172101,
+    "hardcore": false,
+    "died": false,
+    "deaths": 0,
+    "masochist": false,
+    "closedSkillsTooltip": true,
+    "closedPassivesTooltip": true,
+    "closedMonolithTooltip": false,
+    "closedIdolsTooltip": true,
+    "closedMinSkillLevelTutorial": true,
+    "characterClass": 0,
+    "savedItems": [
+      {
+        "itemData": "",
+        "data": [
+          1, 0, 6, 9, 255, 255, 255, 0, 239, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 45, 255, 96, 80, 255, 96, 80, 255, 96, 114, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 2,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 1, 3, 9, 255, 255, 255, 0, 11, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 27, 255, 98, 117, 255, 98, 117, 255, 96, 36, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 3,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 13, 6, 9, 255, 255, 255, 0, 162, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 27, 255, 96, 27, 255, 96, 27, 255, 96, 27, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 4,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 0, 4, 255, 255, 255, 12, 4, 97, 245, 255, 97, 246, 255, 96, 36,
+          255, 96, 36, 255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 6,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 2, 4, 9, 255, 255, 255, 0, 103, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 36, 255, 96, 36, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 7,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 3, 9, 9, 255, 255, 255, 0, 115, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 36, 255, 96, 36, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 8,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 2, 9, 255, 255, 255, 0, 238, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 98, 90, 255, 98, 90, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 10,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 2, 9, 255, 255, 255, 0, 238, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 98, 90, 255, 98, 90, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 9,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 20, 5, 9, 255, 255, 255, 0, 133, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 97, 245, 255, 97, 246, 255, 96, 142, 255, 96, 36, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 11,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 22, 6, 9, 255, 255, 255, 0, 70, 255, 255, 255, 255, 255, 255, 255,
+          255, 4, 96, 46, 255, 96, 36, 255, 96, 30, 255, 98, 117, 255
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 12,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 22, 6, 9, 255, 255, 255, 0, 70, 255, 255, 255, 255, 255, 255, 255,
+          255, 5, 96, 27, 255, 96, 27, 255, 96, 27, 255, 96, 27, 255, 96, 27,
+          255
+        ],
+        "inventoryPosition": { "x": 0, "y": 6 },
+        "quantity": 1,
+        "containerID": 1,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 26, 0, 2, 35, 122, 17, 17, 4, 0, 36, 255, 0, 36, 255, 0, 36, 255,
+          0, 36, 255, 0
+        ],
+        "inventoryPosition": { "x": 1, "y": 2 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 26, 0, 2, 240, 246, 1, 22, 4, 0, 36, 255, 0, 36, 255, 0, 36, 255,
+          0, 36, 255, 0
+        ],
+        "inventoryPosition": { "x": 3, "y": 2 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 30, 0, 3, 52, 190, 79, 21, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 1 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 30, 0, 3, 85, 240, 102, 18, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": { "x": 4, "y": 1 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 113, 150, 18, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": { "x": 1, "y": 1 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 176, 125, 64, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": { "x": 1, "y": 0 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 29, 0, 3, 246, 17, 185, 17, 8, 0, 178, 255, 0, 178, 255, 0, 178,
+          255, 0, 178, 255, 0, 36, 255, 2, 90, 255, 0, 36, 255, 2, 90, 255, 0
+        ],
+        "inventoryPosition": { "x": 1, "y": 3 },
+        "quantity": 1,
+        "containerID": 29,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 9, 3, 0, 235, 39, 235, 17, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 5, 0, 0, 0, 0, 0, 0, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 3, 7, 0, 0, 0, 0, 0, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 14, 1, 0, 223, 92, 211, 20, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 7, 0, 2, 161, 214, 115, 15, 2, 0, 2, 129, 16, 91, 201, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 18, 0, 0, 141, 103, 117, 19, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 20, 5, 1, 133, 203, 59, 13, 1, 0, 22, 236, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 6, 4, 245, 179, 144, 20, 4, 98, 150, 255, 97, 173, 255, 96, 27,
+          255, 97, 169, 255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 20, 0, 2, 93, 197, 10, 12, 2, 64, 80, 128, 16, 61, 153, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 21, 9, 3, 235, 218, 217, 11, 3, 48, 70, 148, 64, 12, 60, 0, 17,
+          112, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 15, 10, 0, 51, 124, 91, 12, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 15, 13, 0, 255, 255, 255, 255, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 3, 9, 4, 255, 255, 255, 255, 2, 96, 27, 255, 96, 27, 255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 6, 7, 4, 255, 255, 255, 255, 4, 96, 27, 255, 96, 27, 255, 96, 27,
+          255, 96, 27, 255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 4, 6, 4, 255, 255, 255, 255, 4, 96, 27, 255, 96, 27, 255, 96, 27,
+          255, 96, 27, 255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 31, 4, 2, 167, 84, 72, 20, 2, 0, 27, 255, 0, 27, 255, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 32, 4, 2, 41, 139, 42, 15, 2, 0, 27, 255, 0, 27, 255, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 7, 3, 8, 255, 255, 255, 0, 170, 255, 255, 255, 255, 255, 255, 255,
+          255, 0
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [
+          1, 0, 2, 7, 255, 255, 255, 0, 2, 255, 255, 255, 255, 255, 255, 255,
+          255, 4
+        ],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 32,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 34, 111, 0, 73, 190, 154, 0, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 33,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 34, 28, 0, 16, 192, 165, 0, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 35,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 34, 74, 0, 111, 182, 52, 0, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 37,
+        "formatVersion": 2
+      },
+      {
+        "itemData": "",
+        "data": [1, 34, 100, 0, 22, 5, 64, 0, 0, 0],
+        "inventoryPosition": { "x": 0, "y": 0 },
+        "quantity": 1,
+        "containerID": 39,
+        "formatVersion": 2
+      }
+    ],
+    "savedCharacterTree": {
+      "treeID": "",
+      "version": 9,
+      "nodeIDs": [
+        0, 2, 1, 5, 3, 114, 116, 41, 61, 12, 13, 19, 15, 89, 77, 118, 97, 81,
+        110, 111, 56, 25, 108, 67
+      ],
+      "nodePoints": [
+        8, 1, 1, 5, 5, 5, 10, 8, 7, 8, 2, 4, 1, 3, 5, 5, 7, 4, 1, 8, 5, 2, 5, 3
+      ],
+      "unspentPoints": 0,
+      "nodesTaken": []
+    },
+    "savedSkillTrees": [
+      {
+        "treeID": "sw43",
+        "slotNumber": 1,
+        "xp": 5700000,
+        "version": 1,
+        "nodeIDs": [13, 21, 15, 17, 19, 16],
+        "nodePoints": [8, 4, 3, 2, 1, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0.0
+      },
+      {
+        "treeID": "fl13",
+        "slotNumber": 2,
+        "xp": 5700000,
+        "version": 2,
+        "nodeIDs": [20, 15, 11, 7, 8, 14, 16, 17],
+        "nodePoints": [3, 3, 1, 3, 1, 4, 4, 1],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0.0
+      },
+      {
+        "treeID": "ssc50",
+        "slotNumber": 4,
+        "xp": 5700000,
+        "version": 0,
+        "nodeIDs": [1, 21, 22, 23, 24, 25, 8, 2, 4, 15],
+        "nodePoints": [3, 3, 1, 2, 1, 3, 1, 3, 1, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0.0
+      },
+      {
+        "treeID": "wb8fo",
+        "slotNumber": 3,
+        "xp": 5700000,
+        "version": 3,
+        "nodeIDs": [7, 13, 15, 8, 21, 22, 32, 19, 31, 18, 2, 3, 29, 27],
+        "nodePoints": [3, 3, 3, 2, 4, 2, 1, 3, 1, 4, 1, 3, 4, 4],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0.0
+      },
+      {
+        "treeID": "eq5s",
+        "slotNumber": 0,
+        "xp": 5700000,
+        "version": 1,
+        "nodeIDs": [17, 14, 25, 2, 3, 22, 23, 15, 16, 4, 5],
+        "nodePoints": [5, 5, 4, 3, 5, 5, 1, 3, 1, 2, 2],
+        "unspentPoints": 0,
+        "nodesTaken": [],
+        "abilityXP": 0.0
+      }
+    ],
+    "characterTreeNodeProgression": [],
+    "unlockedWaypointScenes": [
+      "Z20",
+      "Z30",
+      "Z40",
+      "A04",
+      "A10",
+      "A30",
+      "A45",
+      "A60TR",
+      "A60",
+      "A70",
+      "A90",
+      "B10",
+      "B20",
+      "B25",
+      "B7S10",
+      "B30",
+      "B33",
+      "B40",
+      "B40TR",
+      "B1S40",
+      "B50",
+      "B60",
+      "B80",
+      "EoT",
+      "C10",
+      "C20",
+      "C30",
+      "C40",
+      "C50",
+      "C60",
+      "C70",
+      "D05",
+      "D05TR",
+      "Dun1Q10",
+      "H40",
+      "H50",
+      "H70",
+      "H80",
+      "H100",
+      "H110",
+      "H120",
+      "D20",
+      "D30",
+      "D40",
+      "D60",
+      "D80",
+      "E10",
+      "E20",
+      "E20TR",
+      "E30",
+      "E40",
+      "E50",
+      "E60",
+      "E80",
+      "E90",
+      "F10",
+      "F40",
+      "MonolithHub"
+    ],
+    "abilityBar": ["eq5s", "sw43", "fl13", "wb8fo", "ssc50"],
+    "moveButtonBehaviour": 0,
+    "werebearAbilityBar": [3, 2, 4, 0, 1],
+    "sprigganFormAbilityBar": [],
+    "swarmbladeAbilityBar": [],
+    "portalUnlocked": true,
+    "reachedTown": true,
+    "soloChallenge": false,
+    "respecs": 0,
+    "uniquesPickedUp": 0,
+    "savedQuests": [
+      {
+        "questID": 18,
+        "questStepID": 93,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          64, 66, 67, 65, 70, 72, 73, 136, 74, 137, 138, 148
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 48,
+        "questStepID": 281,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [247, 248, 249, 250, 251, 252, 253],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 1,
+        "questStepID": 4,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [1, 2, 3, 48],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 49,
+        "questStepID": 284,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [254, 255, 256, 257],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 94,
+        "questStepID": 493,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [404, 405, 406, 407, 408],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 3,
+        "questStepID": 12,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [8, 9],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 11,
+        "questStepID": 44,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [33],
+        "failedObjectives": [34],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 5,
+        "questStepID": 14,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [22, 24, 25, 26, 62, 10],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 2,
+        "questStepID": 24,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [4, 5, 6, 7, 20],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 34,
+        "questStepID": 197,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [175, 177, 178, 179],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 6,
+        "questStepID": 47,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [11, 15, 431, 16, 17, 61],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 9,
+        "questStepID": 38,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [29, 30, 31],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 35,
+        "questStepID": 202,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [180, 181, 182, 190, 191, 183],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 96,
+        "questStepID": 506,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [413, 414, 415, 416, 417, 418, 419],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 99,
+        "questStepID": 520,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [427, 428, 429],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 29,
+        "questStepID": 160,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [144, 145, 146, 147],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 100,
+        "questStepID": 525,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [435, 434],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 10,
+        "questStepID": 40,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [28],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 13,
+        "questStepID": 60,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [41, 436, 437, 42, 438, 43, 44, 45, 49, 46],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 40,
+        "questStepID": 232,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [210],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 39,
+        "questStepID": 230,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [202, 203, 204, 205, 208, 209, 206, 207],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 41,
+        "questStepID": 234,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [211],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 14,
+        "questStepID": 101,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [139, 149, 47, 50, 88, 89, 90, 91, 96, 97, 98],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 28,
+        "questStepID": 155,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [142, 143],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 12,
+        "questStepID": 54,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [35, 36, 37, 38, 39, 40],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 116,
+        "questStepID": 596,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [514],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 20,
+        "questStepID": 106,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [92, 93, 94, 95, 105, 106],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 24,
+        "questStepID": 128,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [108, 109, 110, 111, 112, 113, 114, 115, 116],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 114,
+        "questStepID": 584,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          495, 496, 497, 498, 499, 500, 501, 502, 503, 554, 504
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 119,
+        "questStepID": 615,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [556, 558, 557, 526, 527, 528, 529],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 115,
+        "questStepID": 593,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          505, 506, 507, 567, 508, 513, 509, 510, 511, 512
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 117,
+        "questStepID": 601,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [573, 515, 516, 517, 518],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 123,
+        "questStepID": 640,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          545, 546, 547, 552, 548, 549, 550, 553, 551, 568, 569, 570
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 120,
+        "questStepID": 621,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [531, 532, 533, 534, 535],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 122,
+        "questStepID": 632,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [540, 541, 542, 543, 544],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 124,
+        "questStepID": 656,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          559, 560, 574, 575, 561, 562, 563, 564, 565, 566
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 27,
+        "questStepID": 145,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [126, 127, 128, 129, 130],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 30,
+        "questStepID": 168,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [150, 151, 152, 153, 154],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 36,
+        "questStepID": 209,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [184, 185, 186, 187, 188, 192, 189],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 25,
+        "questStepID": 136,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [117, 118, 119, 121, 120, 122, 123],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 31,
+        "questStepID": 176,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [
+          155, 156, 162, 157, 158, 159, 163, 160, 164, 161
+        ],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 33,
+        "questStepID": 187,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [169, 170, 174, 171],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 32,
+        "questStepID": 189,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [165, 166, 167, 173, 168, 172],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 42,
+        "questStepID": 240,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [245, 212, 213, 214, 215, 239, 216],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 44,
+        "questStepID": 248,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 47,
+        "questStepID": 267,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 83,
+        "questStepID": 454,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [480, 481],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 85,
+        "questStepID": 462,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [486, 487],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 88,
+        "questStepID": 471,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [492, 493],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 89,
+        "questStepID": 475,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [472, 473],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 91,
+        "questStepID": 479,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 112,
+        "questStepID": 570,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [476],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 111,
+        "questStepID": 567,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [474],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      },
+      {
+        "questID": 110,
+        "questStepID": 564,
+        "state": 0,
+        "questBranch": 0,
+        "completeObjectives": [470],
+        "failedObjectives": [],
+        "nolongerRelevantObjectives": [],
+        "objectiveProgress": []
+      }
+    ],
+    "savedMonolithQuests": [],
+    "maxWave": 0,
+    "competitiveCharacterVersion": 16,
+    "oneTimeEvents": [
+      "ChZNotification",
+      "ChANotification",
+      "A30VAActivate",
+      "A40PortalTutorialDisable",
+      "A40PortalTutorialFirst",
+      "A30ErzaUniqueDrop",
+      "A60-70Door",
+      "A30SavingLastRefugeIdols",
+      "A30RuneDoorOneTime",
+      "ChBNotification",
+      "B33SoulVesselSwap",
+      "B80RightObjective",
+      "B80LeftObjective",
+      "Reached EoT",
+      "Reached EoT Music",
+      "activate time travel EoT to C10",
+      "ChCNotification",
+      "ChDNotification",
+      "H40ZerrickFreed",
+      "H50Cinematic",
+      "H60BodyguardComplete",
+      "H120toH130open",
+      "D30RuneDoorOneTime",
+      "ChENotification",
+      "ChFNotification",
+      "MHubBridgeInitial",
+      "Bridge1to3",
+      "Bridge3to6A",
+      "Bridge3to6B",
+      "Bridge6to7A",
+      "Bridge6to7B",
+      "Bridge7toMinihub",
+      "MinihubtoMinihub",
+      "Minihubto10",
+      "Minihubto9A",
+      "Minihubto9B",
+      "Minihubto8"
+    ],
+    "focusedQuest": -1,
+    "sceneProgresses": [
+      { "scene": "Z10", "progress": 962057535487, "version": 1 },
+      { "scene": "Z20", "progress": 6015, "version": 1 },
+      { "scene": "Z30", "progress": 4380445734027263, "version": 1 },
+      { "scene": "Z40", "progress": 10952402477961232000, "version": 1 },
+      { "scene": "A04", "progress": 16428576156942336000, "version": 1 },
+      { "scene": "A10", "progress": 6476209249505772000, "version": 1 },
+      { "scene": "A30", "progress": 4030202878, "version": 1 },
+      { "scene": "A3S10", "progress": 241, "version": 1 },
+      { "scene": "A40", "progress": 35051588070918144, "version": 1 },
+      { "scene": "A45", "progress": 18176, "version": 1 },
+      { "scene": "A60TR", "progress": 67553994813210620, "version": 2 },
+      { "scene": "A60", "progress": 288221578447060740, "version": 1 },
+      { "scene": "A70", "progress": 8986276049452095, "version": 1 },
+      { "scene": "A80", "progress": 14, "version": 1 },
+      { "scene": "A90", "progress": 17591112321023, "version": 1 },
+      { "scene": "B10", "progress": 12533324488175616, "version": 1 },
+      { "scene": "B20", "progress": 6548674303721487, "version": 1 },
+      { "scene": "B7S10", "progress": 31866509819807, "version": 1 },
+      { "scene": "B33", "progress": 8778913157121, "version": 1 },
+      { "scene": "B25", "progress": 1920, "version": 1 },
+      { "scene": "B36", "progress": 3848324120576, "version": 2 },
+      { "scene": "B40TR", "progress": 144097287188920420, "version": 2 },
+      { "scene": "B1S30", "progress": 40531558865829860, "version": 1 },
+      { "scene": "B1S40", "progress": 34041154739634416, "version": 1 },
+      { "scene": "B40", "progress": 270075274379411460, "version": 2 },
+      { "scene": "B50", "progress": 0, "version": 1 },
+      { "scene": "B90", "progress": 6425409484813, "version": 1 },
+      { "scene": "B100", "progress": 17179876352, "version": 1 },
+      { "scene": "C10", "progress": 0, "version": 1 },
+      { "scene": "C20", "progress": 14498176429981742, "version": 1 },
+      { "scene": "C30", "progress": 35584725183625216, "version": 1 },
+      { "scene": "B30", "progress": 1064335845113855, "version": 1 },
+      { "scene": "B4S10", "progress": 4194015, "version": 1 },
+      { "scene": "C1S10", "progress": 17100154584432640, "version": 1 },
+      { "scene": "C35", "progress": 540412417414891500, "version": 1 },
+      { "scene": "C40", "progress": 540430864352804860, "version": 1 },
+      { "scene": "C50", "progress": 263882664735743, "version": 1 },
+      { "scene": "C60", "progress": 2885408137091, "version": 1 },
+      { "scene": "C65", "progress": 147407, "version": 1 },
+      { "scene": "C70", "progress": 16160885809082794000, "version": 1 },
+      { "scene": "C80", "progress": 2248501262557183, "version": 1 },
+      { "scene": "Dun1Q30", "progress": 2199023484941, "version": 1 },
+      { "scene": "H60", "progress": 216172524348637200, "version": 1 },
+      { "scene": "H50", "progress": 8589672447, "version": 1 },
+      { "scene": "H80", "progress": 0, "version": 1 },
+      { "scene": "H90", "progress": 439735937957824, "version": 1 },
+      { "scene": "H100", "progress": 10664172074949198000, "version": 1 },
+      { "scene": "H105", "progress": 0, "version": 1 },
+      { "scene": "H110", "progress": 0, "version": 1 },
+      { "scene": "H120", "progress": 13268906324070400, "version": 1 },
+      { "scene": "H130", "progress": 6290431, "version": 1 },
+      { "scene": "H140", "progress": 246290805948416, "version": 1 },
+      { "scene": "D10", "progress": 15782304138949640, "version": 1 },
+      { "scene": "D20", "progress": 13370059506449472, "version": 1 },
+      { "scene": "D35", "progress": 0, "version": 1 },
+      { "scene": "D30", "progress": 3386495813386743, "version": 1 },
+      { "scene": "D40", "progress": 7044333568, "version": 1 },
+      { "scene": "D05", "progress": 23089743685631, "version": 1 },
+      { "scene": "D50", "progress": 9188328264207237000, "version": 1 },
+      { "scene": "D60", "progress": 26387620888191, "version": 1 },
+      { "scene": "D80", "progress": 8406931, "version": 1 },
+      { "scene": "E10", "progress": 68658525110527, "version": 1 },
+      { "scene": "E20TR", "progress": 2251524934008831, "version": 1 },
+      { "scene": "E20", "progress": 517786673523195900, "version": 1 },
+      { "scene": "E30", "progress": 1152921504404472000, "version": 1 },
+      { "scene": "E40", "progress": 4610594684414189600, "version": 1 },
+      { "scene": "E50", "progress": 29239276212249590, "version": 1 },
+      { "scene": "E1S10", "progress": 2251784420522458000, "version": 1 },
+      { "scene": "E60", "progress": 516095, "version": 1 },
+      { "scene": "E70", "progress": 1116966501482622, "version": 1 },
+      { "scene": "E80", "progress": 320193042328321900, "version": 1 },
+      { "scene": "E90", "progress": 8998407203980283, "version": 1 },
+      { "scene": "E100", "progress": 548682072064, "version": 1 },
+      { "scene": "F10", "progress": 114342766804991, "version": 1 },
+      { "scene": "F20", "progress": 4468419499916289, "version": 1 },
+      { "scene": "F30", "progress": 257537, "version": 1 },
+      { "scene": "F40", "progress": 4002282454646791, "version": 1 },
+      { "scene": "H40", "progress": 25882477915013104, "version": 1 },
+      { "scene": "MonolithHub", "progress": 3386461453811457, "version": 1 }
+    ],
+    "monolithRuns": [
+      {
+        "timelineID": 1,
+        "difficultyIndex": 0,
+        "depth": 13,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 0,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 42, 0, 127, 127] },
+            { "data": [0, 3, 0, 2, 25, 5, 143, 206, 4, 24, 1] },
+            { "data": [0, 3, 0, 6, 19, 0, 107, 64, 1, 23, 1] },
+            { "data": [0, 3, 0, 9, 57, 16, 101, 242, 0, 5, 2] },
+            { "data": [0, 2, 0, 8, 53, 4, 75, 116, 1, 1, 2] },
+            { "data": [0, 3, 0, 5, 28, 8, 67, 126, 4, 12, 1] },
+            { "data": [0, 3, 0, 17, 41, 6, 30, 173, 0, 5, 2] },
+            { "data": [0, 0, 0, 4, 1, 11, 126, 21, 8, 23, 1] },
+            { "data": [0, 0, 0, 20, 1, 12, 7, 81, 1, 18, 2] },
+            { "data": [0, 2, 0, 21, 35, 1, 230, 48, 0, 3, 2] },
+            { "data": [0, 0, 0, 7, 4, 10, 238, 148, 13, 23, 2] },
+            { "data": [0, 2, 0, 22, 49, 13, 169, 76, 23, 18, 2] },
+            { "data": [0, 2, 0, 23, 58, 7, 2, 254, 23, 22, 2] },
+            { "data": [0, 3, 0, 14, 37, 16, 208, 26, 7, 24, 2] },
+            { "data": [0, 3, 0, 15, 49, 11, 94, 140, 4, 13, 2] },
+            { "data": [0, 2, 0, 35, 26, 6, 56, 157, 4, 2, 2] },
+            { "data": [0, 2, 0, 33, 37, 8, 111, 57, 7, 12, 2] },
+            { "data": [0, 2, 0, 30, 2, 6, 135, 130, 4, 12, 2] },
+            { "data": [0, 2, 0, 13, 30, 6, 236, 86, 8, 4, 2] },
+            { "data": [0, 3, 0, 31, 25, 15, 228, 62, 1, 22, 2] },
+            { "data": [0, 2, 0, 32, 42, 4, 124, 132, 1, 0, 2] },
+            { "data": [0, 2, 0, 52, 21, 8, 150, 154, 23, 8, 3] },
+            { "data": [0, 3, 0, 53, 49, 1, 153, 179, 3, 18, 2] },
+            { "data": [0, 0, 0, 55, 2, 18, 253, 189, 4, 4, 3] },
+            { "data": [0, 0, 0, 79, 1, 13, 43, 191, 10, 14, 2] },
+            { "data": [1, 0, 0, 51, 8, 1, 6, 82, 20, 6, 3] },
+            { "data": [0, 2, 0, 82, 50, 2, 73, 103, 20, 8, 2] },
+            { "data": [0, 3, 0, 81, 25, 10, 136, 66, 1, 14, 3] },
+            { "data": [0, 2, 0, 116, 5, 19, 143, 6, 0, 6, 4] },
+            { "data": [0, 2, 0, 117, 42, 12, 49, 88, 7, 14, 4] },
+            { "data": [0, 2, 0, 114, 49, 1, 200, 139, 8, 2, 4] },
+            { "data": [3, 3, 0, 115, 37, 12, 231, 48] },
+            { "data": [0, 2, 0, 153, 53, 18, 136, 189, 0, 18, 3] },
+            { "data": [0, 2, 0, 154, 34, 14, 155, 118, 22, 6, 4] },
+            { "data": [0, 2, 0, 156, 50, 9, 207, 90, 36, 2, 4] },
+            { "data": [0, 2, 0, 203, 42, 2, 244, 163, 0, 20, 5] },
+            { "data": [1, 2, 0, 202, 53, 2, 60, 73, 17, 21, 4] },
+            { "data": [1, 0, 0, 198, 1, 2, 248, 249, 7, 18, 3] },
+            { "data": [0, 2, 0, 199, 50, 0, 90, 120, 4, 23, 3] },
+            { "data": [0, 0, 0, 152, 8, 11, 191, 212, 8, 15, 3] },
+            { "data": [0, 2, 0, 200, 42, 19, 151, 97, 25, 15, 5] },
+            { "data": [1, 0, 0, 158, 2, 2, 172, 75, 0, 5, 4] },
+            { "data": [0, 0, 0, 118, 4, 7, 141, 34, 1, 22, 2] },
+            { "data": [0, 0, 0, 251, 2, 15, 44, 54, 22, 16, 4] },
+            { "data": [0, 0, 0, 250, 1, 10, 77, 15, 7, 25, 5] },
+            { "data": [0, 0, 0, 252, 2, 8, 115, 163, 1, 15, 3] },
+            { "data": [3, 0, 0, 201, 6, 10, 149, 48] },
+            { "data": [0, 0, 0, 254, 1, 9, 86, 124, 7, 9, 3] },
+            { "data": [0, 0, 0, 255, 2, 8, 167, 63, 24, 18, 5] },
+            { "data": [0, 0, 1, 0, 2, 6, 41, 211, 6, 19, 5] },
+            { "data": [0, 0, 0, 204, 4, 11, 103, 83, 5, 12, 3] },
+            { "data": [0, 0, 0, 27, 1, 6, 154, 25, 7, 25, 2] },
+            { "data": [0, 0, 0, 12, 8, 6, 37, 239, 8, 10, 2] },
+            { "data": [1, 0, 0, 28, 1, 3, 76, 215, 6, 18, 2] },
+            { "data": [0, 0, 0, 56, 2, 0, 221, 74, 1, 15, 3] },
+            { "data": [1, 0, 0, 58, 1, 0, 35, 247, 0, 0, 3] },
+            { "data": [0, 0, 0, 36, 4, 3, 251, 111, 7, 16, 2] },
+            { "data": [0, 0, 0, 40, 2, 7, 137, 193, 6, 23, 3] },
+            { "data": [0, 0, 0, 41, 1, 8, 196, 116, 1, 19, 2] },
+            { "data": [0, 0, 0, 42, 3, 16, 179, 228, 0, 22, 3] },
+            { "data": [0, 0, 0, 24, 4, 4, 2, 105, 12, 13, 2] },
+            { "data": [1, 0, 0, 43, 2, 1, 179, 142, 10, 12, 3] }
+          ]
+        },
+        "stability": 4,
+        "previousEchoWasQuestEcho": true,
+        "previousEchoHexIndex": 9,
+        "hasRerolledOptions": false,
+        "modIndexs": [5],
+        "modRemainingDurations": [1],
+        "modEffectModifiers": [0.0],
+        "options": [
+          {
+            "zoneIndex": 2,
+            "modIndex": 0,
+            "duration": 0,
+            "effectModifier": 0.0,
+            "questEcho": true
+          },
+          {
+            "zoneIndex": 6,
+            "modIndex": 7,
+            "duration": 6,
+            "effectModifier": 0.1499999761581421,
+            "questEcho": false
+          }
+        ]
+      },
+      {
+        "timelineID": 3,
+        "difficultyIndex": 0,
+        "depth": 14,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 0,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 40, 0, 127, 127] },
+            { "data": [0, 3, 0, 6, 57, 8, 207, 47, 0, 2, 1] },
+            { "data": [0, 3, 0, 4, 57, 7, 28, 167, 0, 5, 1] },
+            { "data": [0, 2, 0, 17, 25, 8, 58, 166, 4, 2, 2] },
+            { "data": [0, 2, 0, 16, 37, 9, 206, 55, 0, 11, 2] },
+            { "data": [0, 2, 0, 18, 42, 13, 71, 81, 4, 3, 2] },
+            { "data": [0, 2, 0, 12, 21, 8, 96, 31, 7, 17, 2] },
+            { "data": [0, 3, 0, 13, 49, 5, 152, 146, 0, 1, 2] },
+            { "data": [0, 2, 0, 14, 34, 12, 75, 13, 17, 1, 2] },
+            { "data": [0, 0, 0, 33, 3, 10, 29, 217, 2, 22, 2] },
+            { "data": [1, 0, 0, 34, 1, 2, 215, 134, 4, 22, 2] },
+            { "data": [0, 0, 0, 15, 4, 12, 181, 83, 1, 11, 2] },
+            { "data": [0, 0, 0, 7, 2, 10, 183, 121, 1, 7, 2] },
+            { "data": [0, 0, 0, 36, 2, 11, 35, 80, 4, 13, 2] },
+            { "data": [0, 0, 0, 11, 4, 9, 9, 219, 1, 14, 2] },
+            { "data": [0, 0, 0, 26, 1, 4, 159, 208, 8, 1, 2] },
+            { "data": [0, 2, 0, 29, 50, 12, 211, 29, 20, 8, 2] },
+            { "data": [0, 3, 0, 28, 41, 8, 7, 39, 12, 4, 2] },
+            { "data": [0, 2, 0, 30, 34, 11, 125, 72, 4, 5, 2] },
+            { "data": [0, 2, 0, 51, 34, 1, 197, 140, 0, 5, 2] },
+            { "data": [0, 3, 0, 50, 19, 14, 135, 86, 0, 11, 3] },
+            { "data": [1, 2, 0, 48, 49, 3, 140, 94, 10, 1, 3] },
+            { "data": [0, 0, 0, 74, 1, 4, 114, 253, 10, 19, 3] },
+            { "data": [0, 0, 0, 75, 2, 11, 101, 32, 0, 1, 2] },
+            { "data": [0, 3, 0, 77, 49, 7, 181, 105, 0, 18, 3] },
+            { "data": [0, 3, 0, 111, 26, 12, 180, 211, 7, 11, 4] },
+            { "data": [1, 3, 0, 110, 53, 2, 139, 148, 1, 13, 2] },
+            { "data": [0, 3, 0, 150, 35, 10, 178, 112, 10, 5, 4] },
+            { "data": [0, 3, 0, 112, 37, 10, 201, 136, 0, 22, 2] },
+            { "data": [0, 3, 0, 149, 49, 15, 157, 45, 0, 23, 4] },
+            { "data": [0, 2, 0, 109, 14, 12, 214, 145, 5, 18, 2] },
+            { "data": [0, 2, 0, 195, 18, 14, 103, 44, 10, 23, 5] },
+            { "data": [0, 2, 0, 194, 37, 14, 81, 128, 10, 4, 3] },
+            { "data": [0, 2, 0, 196, 42, 5, 5, 74, 40, 6, 4] },
+            { "data": [0, 0, 0, 147, 1, 6, 136, 244, 22, 22, 3] },
+            { "data": [1, 0, 0, 108, 8, 3, 185, 118, 17, 21, 3] },
+            { "data": [0, 0, 0, 248, 2, 7, 155, 127, 1, 21, 3] },
+            { "data": [0, 0, 0, 197, 4, 13, 103, 203, 7, 15, 3] },
+            { "data": [3, 3, 0, 79, 27, 3, 54, 94] },
+            { "data": [1, 2, 0, 152, 42, 3, 33, 155, 7, 8, 3] },
+            { "data": [0, 2, 0, 52, 26, 13, 199, 211, 0, 3, 3] },
+            { "data": [0, 2, 0, 80, 44, 3, 47, 101, 1, 14, 2] },
+            { "data": [0, 2, 0, 198, 42, 4, 244, 211, 22, 14, 5] },
+            { "data": [1, 2, 0, 153, 45, 1, 143, 60, 12, 12, 4] },
+            { "data": [0, 2, 0, 53, 38, 11, 106, 60, 1, 13, 2] },
+            { "data": [0, 2, 0, 81, 54, 0, 50, 101, 1, 10, 3] },
+            { "data": [0, 2, 0, 114, 18, 11, 23, 164, 10, 16, 2] },
+            { "data": [0, 0, 0, 199, 6, 2, 86, 188, 1, 22, 5] },
+            { "data": [0, 0, 0, 250, 2, 13, 233, 90, 7, 15, 3] },
+            { "data": [0, 0, 0, 154, 4, 10, 211, 217, 10, 20, 4] },
+            { "data": [0, 0, 0, 54, 4, 0, 87, 17, 41, 20, 3] },
+            { "data": [0, 0, 0, 82, 6, 5, 57, 230, 0, 14, 3] },
+            { "data": [0, 0, 0, 115, 1, 10, 246, 59, 4, 5, 3] },
+            { "data": [0, 0, 0, 116, 2, 7, 200, 142, 0, 19, 4] },
+            { "data": [0, 0, 0, 246, 3, 1, 47, 72, 0, 14, 3] },
+            { "data": [0, 0, 0, 193, 4, 11, 18, 9, 22, 1, 4] }
+          ]
+        },
+        "stability": 71,
+        "previousEchoWasQuestEcho": true,
+        "previousEchoHexIndex": 149,
+        "hasRerolledOptions": false,
+        "modIndexs": [23],
+        "modRemainingDurations": [2],
+        "modEffectModifiers": [0.0],
+        "options": [
+          {
+            "zoneIndex": 11,
+            "modIndex": 22,
+            "duration": 3,
+            "effectModifier": 0.20000004768371583,
+            "questEcho": false
+          },
+          {
+            "zoneIndex": 10,
+            "modIndex": 5,
+            "duration": 4,
+            "effectModifier": 0.20000004768371583,
+            "questEcho": false
+          }
+        ]
+      },
+      {
+        "timelineID": 5,
+        "difficultyIndex": 0,
+        "depth": 15,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 5,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 50, 0, 127, 127] },
+            { "data": [0, 2, 0, 6, 57, 1, 62, 94, 0, 19, 2] },
+            { "data": [0, 2, 0, 5, 25, 8, 192, 237, 0, 9, 2] },
+            { "data": [0, 3, 0, 2, 41, 6, 111, 78, 7, 21, 2] },
+            { "data": [0, 0, 0, 16, 1, 14, 120, 120, 4, 13, 2] },
+            { "data": [0, 0, 0, 17, 1, 10, 66, 115, 19, 1, 2] },
+            { "data": [0, 0, 0, 18, 2, 6, 158, 248, 4, 3, 2] },
+            { "data": [0, 0, 0, 15, 1, 16, 110, 125, 2, 17, 2] },
+            { "data": [0, 0, 0, 14, 1, 14, 48, 102, 7, 22, 2] },
+            { "data": [0, 3, 0, 10, 58, 20, 202, 247, 17, 22, 2] },
+            { "data": [0, 2, 0, 8, 21, 10, 34, 148, 1, 5, 2] },
+            { "data": [0, 3, 0, 24, 26, 16, 94, 212, 7, 11, 3] },
+            { "data": [0, 2, 0, 23, 21, 7, 56, 97, 6, 5, 2] },
+            { "data": [0, 2, 0, 11, 38, 20, 240, 97, 20, 20, 2] },
+            { "data": [1, 0, 0, 20, 1, 5, 176, 210, 7, 8, 2] },
+            { "data": [0, 0, 0, 7, 4, 4, 111, 214, 7, 22, 2] },
+            { "data": [0, 3, 0, 25, 50, 18, 190, 108, 0, 5, 2] },
+            { "data": [0, 2, 0, 43, 49, 6, 60, 220, 0, 19, 2] },
+            { "data": [0, 0, 0, 22, 4, 6, 176, 130, 1, 17, 3] },
+            { "data": [0, 0, 0, 42, 1, 7, 115, 239, 1, 13, 2] },
+            { "data": [0, 0, 0, 12, 4, 10, 11, 206, 0, 16, 2] },
+            { "data": [0, 2, 0, 26, 18, 4, 215, 31, 1, 1, 3] },
+            { "data": [0, 2, 0, 45, 25, 2, 193, 76, 1, 11, 2] },
+            { "data": [0, 3, 0, 46, 43, 6, 135, 196, 21, 21, 2] },
+            { "data": [0, 0, 0, 69, 2, 3, 254, 147, 10, 18, 4] },
+            { "data": [1, 0, 0, 68, 1, 5, 165, 85, 21, 9, 4] },
+            { "data": [0, 0, 0, 70, 1, 13, 222, 76, 9, 17, 4] },
+            { "data": [0, 2, 0, 71, 25, 8, 46, 130, 1, 5, 4] },
+            { "data": [3, 3, 0, 73, 58, 12, 90, 159] },
+            { "data": [0, 2, 0, 47, 44, 5, 246, 72, 4, 19, 3] },
+            { "data": [0, 2, 0, 106, 50, 9, 138, 196, 15, 7, 2] },
+            { "data": [0, 2, 0, 74, 14, 12, 166, 138, 22, 22, 2] },
+            { "data": [0, 2, 0, 105, 53, 20, 47, 60, 24, 4, 4] },
+            { "data": [0, 2, 0, 48, 45, 3, 14, 32, 10, 23, 2] },
+            { "data": [0, 2, 0, 145, 26, 15, 181, 196, 8, 7, 5] },
+            { "data": [0, 2, 0, 144, 35, 7, 1, 45, 0, 2, 3] },
+            { "data": [0, 2, 0, 75, 38, 9, 55, 246, 1, 2, 2] },
+            { "data": [0, 2, 0, 104, 24, 14, 19, 3, 0, 11, 2] },
+            { "data": [0, 2, 0, 143, 37, 13, 167, 21, 23, 21, 5] },
+            { "data": [3, 0, 0, 49, 2, 2, 138, 114] },
+            { "data": [0, 0, 0, 28, 8, 14, 112, 9, 0, 21, 3] },
+            { "data": [1, 0, 0, 102, 1, 1, 36, 197, 8, 22, 2] },
+            { "data": [0, 0, 0, 103, 1, 10, 98, 245, 10, 5, 4] },
+            { "data": [0, 0, 0, 142, 9, 12, 217, 17, 1, 19, 3] },
+            { "data": [1, 0, 0, 108, 2, 6, 13, 239, 20, 0, 2] },
+            { "data": [0, 0, 0, 188, 2, 15, 31, 216, 0, 3, 3] },
+            { "data": [1, 0, 0, 189, 3, 1, 201, 74, 0, 16, 4] },
+            { "data": [0, 0, 0, 146, 4, 10, 42, 29, 1, 19, 3] }
+          ]
+        },
+        "stability": 67,
+        "previousEchoWasQuestEcho": true,
+        "previousEchoHexIndex": 73,
+        "hasRerolledOptions": false,
+        "modIndexs": [],
+        "modRemainingDurations": [],
+        "modEffectModifiers": [],
+        "options": [
+          {
+            "zoneIndex": 13,
+            "modIndex": 11,
+            "duration": 4,
+            "effectModifier": 0.25,
+            "questEcho": false
+          },
+          {
+            "zoneIndex": 3,
+            "modIndex": 20,
+            "duration": 6,
+            "effectModifier": 0.25,
+            "questEcho": false
+          }
+        ]
+      },
+      {
+        "timelineID": 7,
+        "difficultyIndex": 0,
+        "depth": 18,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 7,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 13, 0, 127, 127] },
+            { "data": [0, 2, 0, 3, 41, 12, 202, 1, 1, 3, 2] },
+            { "data": [0, 2, 0, 1, 57, 8, 208, 179, 1, 17, 2] },
+            { "data": [0, 3, 0, 4, 49, 8, 239, 223, 1, 26, 2] },
+            { "data": [0, 0, 0, 12, 2, 10, 83, 50, 19, 19, 2] },
+            { "data": [0, 0, 0, 10, 1, 10, 139, 38, 1, 11, 2] },
+            { "data": [0, 0, 0, 18, 1, 25, 117, 73, 4, 17, 2] },
+            { "data": [0, 0, 0, 7, 1, 28, 41, 111, 0, 21, 2] },
+            { "data": [0, 0, 0, 8, 2, 12, 156, 35, 0, 6, 2] },
+            { "data": [0, 3, 0, 13, 25, 25, 108, 160, 23, 23, 2] },
+            { "data": [0, 2, 0, 14, 42, 14, 235, 146, 18, 20, 2] },
+            { "data": [0, 3, 0, 28, 49, 13, 129, 248, 4, 16, 2] },
+            { "data": [0, 2, 0, 27, 21, 28, 146, 60, 6, 22, 3] },
+            { "data": [0, 0, 0, 15, 2, 7, 77, 158, 0, 7, 2] },
+            { "data": [0, 0, 0, 30, 2, 11, 35, 240, 1, 24, 2] },
+            { "data": [1, 2, 0, 50, 26, 2, 224, 155, 2, 8, 3] },
+            { "data": [1, 3, 0, 49, 57, 2, 102, 179, 21, 10, 3] },
+            { "data": [0, 0, 0, 47, 1, 5, 24, 109, 21, 18, 3] },
+            { "data": [0, 0, 0, 26, 8, 7, 21, 172, 0, 6, 3] },
+            { "data": [0, 2, 0, 77, 35, 13, 82, 14, 10, 2, 4] },
+            { "data": [0, 0, 0, 51, 4, 19, 181, 28, 0, 17, 3] },
+            { "data": [0, 3, 0, 76, 49, 30, 112, 164, 0, 22, 4] },
+            { "data": [0, 2, 0, 75, 21, 2, 161, 92, 7, 9, 3] },
+            { "data": [0, 2, 0, 110, 58, 10, 244, 65, 4, 10, 4] },
+            { "data": [0, 3, 0, 109, 25, 28, 118, 185, 17, 15, 4] },
+            { "data": [1, 0, 0, 74, 8, 3, 220, 139, 13, 14, 3] },
+            { "data": [0, 0, 0, 107, 1, 17, 84, 210, 49, 24, 3] },
+            { "data": [1, 0, 0, 111, 6, 2, 133, 63, 3, 7, 4] },
+            { "data": [0, 0, 0, 150, 2, 18, 87, 58, 14, 17, 5] },
+            { "data": [0, 0, 0, 149, 1, 12, 176, 43, 0, 7, 4] },
+            { "data": [0, 2, 0, 147, 37, 4, 247, 244, 0, 11, 3] },
+            { "data": [0, 2, 0, 148, 49, 19, 3, 1, 4, 0, 3] },
+            { "data": [0, 0, 0, 146, 8, 26, 86, 163, 0, 10, 3] },
+            { "data": [0, 0, 0, 192, 2, 32, 229, 154, 50, 25, 5] },
+            { "data": [0, 0, 0, 193, 1, 1, 33, 202, 10, 17, 4] },
+            { "data": [0, 0, 0, 194, 2, 32, 142, 161, 14, 8, 4] }
+          ]
+        },
+        "stability": 10,
+        "previousEchoWasQuestEcho": true,
+        "previousEchoHexIndex": 109,
+        "hasRerolledOptions": false,
+        "modIndexs": [22, 15],
+        "modRemainingDurations": [2, 3],
+        "modEffectModifiers": [0.0, 0.0],
+        "options": [
+          {
+            "zoneIndex": 7,
+            "modIndex": 16,
+            "duration": 4,
+            "effectModifier": 0.3999999761581421,
+            "questEcho": false
+          },
+          {
+            "zoneIndex": 24,
+            "modIndex": 13,
+            "duration": 4,
+            "effectModifier": 0.3999999761581421,
+            "questEcho": false
+          }
+        ]
+      },
+      {
+        "timelineID": 10,
+        "difficultyIndex": 0,
+        "depth": 0,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 0,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 38, 0, 127, 127] },
+            { "data": [0, 2, 0, 2, 41, 12, 237, 152, 7, 12, 1] },
+            { "data": [0, 2, 0, 6, 57, 13, 228, 65, 7, 8, 1] },
+            { "data": [0, 2, 0, 3, 57, 14, 177, 33, 7, 3, 1] },
+            { "data": [0, 0, 0, 8, 1, 0, 154, 194, 8, 13, 2] },
+            { "data": [0, 0, 0, 10, 3, 17, 152, 207, 0, 16, 2] },
+            { "data": [0, 0, 0, 16, 1, 8, 235, 63, 4, 1, 2] },
+            { "data": [0, 0, 0, 17, 1, 0, 182, 245, 1, 6, 2] },
+            { "data": [0, 0, 0, 18, 2, 12, 153, 179, 15, 15, 2] },
+            { "data": [0, 0, 0, 12, 2, 12, 13, 17, 4, 10, 2] },
+            { "data": [0, 0, 0, 11, 1, 14, 3, 0, 1, 3, 2] }
+          ]
+        },
+        "stability": 0,
+        "previousEchoWasQuestEcho": false,
+        "previousEchoHexIndex": 0,
+        "hasRerolledOptions": false,
+        "modIndexs": [],
+        "modRemainingDurations": [],
+        "modEffectModifiers": [],
+        "options": [
+          {
+            "zoneIndex": 5,
+            "modIndex": 4,
+            "duration": 1,
+            "effectModifier": 0.0,
+            "questEcho": false
+          },
+          {
+            "zoneIndex": 14,
+            "modIndex": 7,
+            "duration": 1,
+            "effectModifier": 0.0,
+            "questEcho": false
+          }
+        ]
+      },
+      {
+        "timelineID": 9,
+        "difficultyIndex": 0,
+        "depth": 0,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 0,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 28, 0, 127, 127] },
+            { "data": [0, 2, 0, 5, 49, 9, 81, 214, 0, 6, 1] },
+            { "data": [0, 2, 0, 4, 25, 5, 52, 12, 4, 1, 1] },
+            { "data": [0, 2, 0, 3, 25, 8, 130, 160, 8, 15, 1] },
+            { "data": [0, 0, 0, 15, 1, 1, 201, 37, 17, 1, 2] },
+            { "data": [0, 0, 0, 16, 2, 11, 153, 49, 4, 7, 2] },
+            { "data": [0, 0, 0, 13, 1, 2, 229, 54, 3, 8, 2] },
+            { "data": [0, 0, 0, 12, 1, 18, 232, 61, 19, 8, 2] },
+            { "data": [0, 0, 0, 11, 1, 6, 103, 97, 1, 1, 2] },
+            { "data": [0, 0, 0, 10, 1, 12, 16, 40, 4, 9, 2] }
+          ]
+        },
+        "stability": 0,
+        "previousEchoWasQuestEcho": false,
+        "previousEchoHexIndex": 0,
+        "hasRerolledOptions": false,
+        "modIndexs": [],
+        "modRemainingDurations": [],
+        "modEffectModifiers": [],
+        "options": [
+          {
+            "zoneIndex": 15,
+            "modIndex": 14,
+            "duration": 1,
+            "effectModifier": 0.0,
+            "questEcho": false
+          },
+          {
+            "zoneIndex": 18,
+            "modIndex": 15,
+            "duration": 1,
+            "effectModifier": 0.0,
+            "questEcho": false
+          }
+        ]
+      },
+      {
+        "timelineID": 8,
+        "difficultyIndex": 0,
+        "depth": 1,
+        "questCompletion": 0,
+        "questBranch": 0,
+        "bossLootDropped": false,
+        "savedEchoWeb": {
+          "version": 0,
+          "corruption": 0,
+          "echoesSinceLastDeath": 0,
+          "gazeOfOrobyss": 0,
+          "islands": [
+            { "data": [6, 3, 0, 0, 13, 0, 127, 127] },
+            { "data": [0, 2, 0, 3, 41, 11, 233, 155, 8, 5, 1] },
+            { "data": [0, 3, 0, 4, 41, 15, 218, 119, 0, 1, 1] },
+            { "data": [0, 2, 0, 1, 41, 8, 45, 127, 0, 6, 1] },
+            { "data": [0, 2, 0, 12, 51, 6, 118, 32, 1, 12, 2] },
+            { "data": [0, 0, 0, 10, 1, 7, 57, 62, 17, 1, 2] },
+            { "data": [0, 2, 0, 14, 58, 8, 130, 60, 7, 12, 2] },
+            { "data": [0, 0, 0, 18, 1, 13, 114, 115, 4, 16, 2] },
+            { "data": [0, 0, 0, 8, 2, 6, 163, 15, 0, 17, 2] },
+            { "data": [0, 0, 0, 15, 2, 11, 163, 63, 1, 11, 2] },
+            { "data": [1, 0, 0, 30, 2, 1, 79, 76, 7, 11, 2] },
+            { "data": [0, 0, 0, 29, 1, 0, 248, 7, 22, 9, 2] },
+            { "data": [0, 0, 0, 27, 2, 0, 55, 118, 7, 12, 2] },
+            { "data": [0, 0, 0, 26, 1, 0, 0, 182, 18, 12, 2] }
+          ]
+        },
+        "stability": 26,
+        "previousEchoWasQuestEcho": false,
+        "previousEchoHexIndex": 4,
+        "hasRerolledOptions": false,
+        "modIndexs": [],
+        "modRemainingDurations": [],
+        "modEffectModifiers": [],
+        "options": [
+          {
+            "zoneIndex": 3,
+            "modIndex": 5,
+            "duration": 1,
+            "effectModifier": 0.0,
+            "questEcho": false
+          },
+          {
+            "zoneIndex": 4,
+            "modIndex": 11,
+            "duration": 1,
+            "effectModifier": 0.0,
+            "questEcho": false
+          }
+        ]
+      }
+    ],
+    "timelineCompletion": [
+      { "timelineID": 1, "progress": [1] },
+      { "timelineID": 3, "progress": [0] },
+      { "timelineID": 5, "progress": [1] },
+      { "timelineID": 7, "progress": [0] }
+    ],
+    "timelineDifficultyCompletion": [
+      { "timelineID": 1, "progress": [0] },
+      { "timelineID": 3, "progress": [0] },
+      { "timelineID": 5, "progress": [0] },
+      { "timelineID": 7, "progress": [0] }
+    ],
+    "timelineDifficultyUnlocks": [
+      { "timelineID": 1, "progress": [0] },
+      { "timelineID": 3, "progress": [0] },
+      { "timelineID": 5, "progress": [0] },
+      { "timelineID": 7, "progress": [0] },
+      { "timelineID": 8, "progress": [0] },
+      { "timelineID": 9, "progress": [0] },
+      { "timelineID": 10, "progress": [0] }
+    ],
+    "currentMonolithRunTimelineID": 0,
+    "currentMonolithRunDifficultyIndex": 0,
+    "currentMonolithRunToSetBack": 0,
+    "currentMonolithRunToSetBackDifficultyIndex": 0,
+    "previousMonolithEchoTimelineID": 8,
+    "previousMonolithEchoDifficultyIndex": 0,
+    "monolithEchoesConquered": 65,
+    "monolithTimelinesConquered": 4,
+    "monolithOptions": [],
+    "activeMonolithMods": [],
+    "monolithDepth": 0,
+    "hasRerolledMonolithOptions": false,
+    "chosenMastery": 3,
+    "clickedUnlockMasteriesButton": false,
+    "currentArenaRunWaves": 0,
+    "previousArenaRunWaves": 0,
+    "activeArenaRun": { "waves": 0, "tier": 0, "activeModIndices": [] },
+    "arenaTiersCompleted": [],
+    "blessingsDiscovered": [111, 0, 113, 28, 48, 30, 74, 90, 78, 100, 110, 102],
+    "activeDungeonRun": {
+      "dungeonID": 0,
+      "zoneIndex": 0,
+      "tier": 0,
+      "status": 0,
+      "soulEmbers": 0,
+      "lanternLuminosity": 0.0
+    },
+    "dungeonCompletion": [{ "dungeonID": 0, "tiersCompleted": [0, 1, 2] }]
+  },
+
+  {
+    "characterName": "dixuedizhenxiong",
+    "level": 100,
+    "slot": 2,
     "currentExp": 699337,
     "hardcore": false,
     "died": false,
